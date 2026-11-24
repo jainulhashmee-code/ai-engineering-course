@@ -50,6 +50,8 @@ This AI Engineering Course is completely free to read. If you want more practica
 
 ---
 
+> **Archived copy:** every blog lesson is saved in [`lessons/`](lessons/) (with its images), so this course stays readable on GitHub even if outcomeschool.com changes. Re-sync after pulling upstream with `python3 scripts/archive_blogs.py .`
+
 ## Table of Contents
 
 - [About This AI Engineering Course](#about-this-ai-engineering-course)
@@ -246,36 +248,36 @@ By the end of this module, we will know how a model learns from data, how we mea
 
 **Lessons in this module:**
 
-1. [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
-2. [Supervised vs Unsupervised Learning](https://outcomeschool.com/blog/supervised-vs-unsupervised-learning)
-3. [Linear Regression vs Logistic Regression](https://outcomeschool.com/blog/linear-regression-vs-logistic-regression)
-4. [What is Feature Engineering in Machine Learning?](https://outcomeschool.com/blog/feature-engineering)
-5. [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
-6. [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
-7. [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
-8. [What is Bayes' Theorem?](https://outcomeschool.com/blog/bayes-theorem)
-9. [How does Naive Bayes work?](https://outcomeschool.com/blog/naive-bayes)
-10. [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
-11. [What is Regularization in Machine Learning? L1 vs L2 Explained](https://outcomeschool.com/blog/regularization-in-machine-learning)
-12. [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
-13. [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
-14. [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
-15. [How do Decision Trees and Random Forests work?](https://outcomeschool.com/blog/decision-trees-and-random-forests)
-16. [How does Gradient Boosting work?](https://outcomeschool.com/blog/gradient-boosting)
-17. [How does K-Means Clustering work?](https://outcomeschool.com/blog/k-means-clustering)
-18. [How does PCA work?](https://outcomeschool.com/blog/principal-component-analysis-pca)
-19. [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
-20. [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
-21. [What is a Markov Decision Process (MDP)?](https://outcomeschool.com/blog/markov-decision-process-mdp)
-22. [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
-23. [What is a Value Function? Q-Learning Explained Step by Step](https://outcomeschool.com/blog/value-function-and-q-learning)
-24. [What is Policy Gradient? The REINFORCE Algorithm Explained](https://outcomeschool.com/blog/policy-gradient-reinforce)
-25. [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](https://outcomeschool.com/blog/actor-critic)
-26. [What is Contrastive Learning? How It Works Step by Step](https://outcomeschool.com/blog/contrastive-learning)
-27. [How does Self-Supervised Learning work?](https://outcomeschool.com/blog/self-supervised-learning)
-28. [How does Semi-Supervised Learning work?](https://outcomeschool.com/blog/semi-supervised-learning)
-29. [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
-30. [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
+1. [What is Machine Learning?](lessons/machine-learning.md)
+2. [Supervised vs Unsupervised Learning](lessons/supervised-vs-unsupervised-learning.md)
+3. [Linear Regression vs Logistic Regression](lessons/linear-regression-vs-logistic-regression.md)
+4. [What is Feature Engineering in Machine Learning?](lessons/feature-engineering.md)
+5. [What is One-hot Encoding in Machine Learning?](lessons/one-hot-encoding.md)
+6. [Precision vs Recall](lessons/precision-vs-recall.md)
+7. [How does a confusion matrix work?](lessons/confusion-matrix.md)
+8. [What is Bayes' Theorem?](lessons/bayes-theorem.md)
+9. [How does Naive Bayes work?](lessons/naive-bayes.md)
+10. [What Are L1 and L2 Loss Functions?](lessons/l1-and-l2-loss-functions.md)
+11. [What is Regularization in Machine Learning? L1 vs L2 Explained](lessons/regularization-in-machine-learning.md)
+12. [Why do we split data into train, validation, and test sets?](lessons/train-validation-test-split.md)
+13. [How does Cross-Validation work?](lessons/cross-validation.md)
+14. [How does the Bias-Variance Tradeoff work?](lessons/bias-variance-tradeoff.md)
+15. [How do Decision Trees and Random Forests work?](lessons/decision-trees-and-random-forests.md)
+16. [How does Gradient Boosting work?](lessons/gradient-boosting.md)
+17. [How does K-Means Clustering work?](lessons/k-means-clustering.md)
+18. [How does PCA work?](lessons/principal-component-analysis-pca.md)
+19. [How does Data Augmentation work?](lessons/data-augmentation.md)
+20. [What is Reinforcement Learning?](lessons/reinforcement-learning.md)
+21. [What is a Markov Decision Process (MDP)?](lessons/markov-decision-process-mdp.md)
+22. [What is Exploration vs Exploitation in Reinforcement Learning?](lessons/exploration-vs-exploitation.md)
+23. [What is a Value Function? Q-Learning Explained Step by Step](lessons/value-function-and-q-learning.md)
+24. [What is Policy Gradient? The REINFORCE Algorithm Explained](lessons/policy-gradient-reinforce.md)
+25. [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](lessons/actor-critic.md)
+26. [What is Contrastive Learning? How It Works Step by Step](lessons/contrastive-learning.md)
+27. [How does Self-Supervised Learning work?](lessons/self-supervised-learning.md)
+28. [How does Semi-Supervised Learning work?](lessons/semi-supervised-learning.md)
+29. [How does a Recommendation System work?](lessons/recommendation-system.md)
+30. [What is Explainable AI?](lessons/explainable-ai-xai.md)
 
 ---
 
@@ -283,7 +285,7 @@ By the end of this module, we will know how a model learns from data, how we mea
 
 In this blog, we will learn what is Machine Learning.
 
-Let's get started: [What is Machine Learning?](https://outcomeschool.com/blog/machine-learning)
+Let's get started: [What is Machine Learning?](lessons/machine-learning.md)
 
 ### 1.2 Supervised vs Unsupervised Learning
 
@@ -295,7 +297,7 @@ We will cover the following:
 - Unsupervised Learning
 - Differences Between Supervised and Unsupervised Learning
 
-Let's get started: [Supervised vs Unsupervised Learning](https://outcomeschool.com/blog/supervised-vs-unsupervised-learning)
+Let's get started: [Supervised vs Unsupervised Learning](lessons/supervised-vs-unsupervised-learning.md)
 
 ### 1.3 Linear Regression vs Logistic Regression
 
@@ -307,13 +309,13 @@ We will cover the following:
 - Logistic Regression
 - Differences Between Linear Regression and Logistic Regression
 
-Let's get started: [Linear Regression vs Logistic Regression](https://outcomeschool.com/blog/linear-regression-vs-logistic-regression)
+Let's get started: [Linear Regression vs Logistic Regression](lessons/linear-regression-vs-logistic-regression.md)
 
 ### 1.4 What is Feature Engineering in Machine Learning?
 
 In this blog, we will learn about the Feature Engineering for Machine Learning.
 
-Let's get started: [What is Feature Engineering in Machine Learning?](https://outcomeschool.com/blog/feature-engineering)
+Let's get started: [What is Feature Engineering in Machine Learning?](lessons/feature-engineering.md)
 
 Watch the video: [Feature Engineering in Machine Learning](https://www.youtube.com/watch?v=QLlywrWuXag)
 
@@ -333,7 +335,7 @@ We will cover the following:
 - Why embeddings replace one-hot vectors
 - Disadvantages of One-hot Encoding
 
-Let's get started: [What is One-hot Encoding in Machine Learning?](https://outcomeschool.com/blog/one-hot-encoding)
+Let's get started: [What is One-hot Encoding in Machine Learning?](lessons/one-hot-encoding.md)
 
 Watch the video: [One-hot Encoding in Machine Learning](https://www.youtube.com/watch?v=6AmedU5i9go)
 
@@ -352,7 +354,7 @@ We will cover the following:
 - A quick recap of the formulas
 - Summary
 
-Let's get started: [Precision vs Recall](https://outcomeschool.com/blog/precision-vs-recall)
+Let's get started: [Precision vs Recall](lessons/precision-vs-recall.md)
 
 ### 1.7 How does a confusion matrix work?
 
@@ -373,7 +375,7 @@ We will cover the following:
 - How we build one in real tools
 - Where a confusion matrix is used
 
-Let's get started: [How does a confusion matrix work?](https://outcomeschool.com/blog/confusion-matrix)
+Let's get started: [How does a confusion matrix work?](lessons/confusion-matrix.md)
 
 ### 1.8 What is Bayes' Theorem?
 
@@ -388,7 +390,7 @@ We will cover the following:
 - Why the answer surprises us
 - Where Bayes' Theorem is used
 
-Let's get started: [What is Bayes' Theorem?](https://outcomeschool.com/blog/bayes-theorem)
+Let's get started: [What is Bayes' Theorem?](lessons/bayes-theorem.md)
 
 ### 1.9 How does Naive Bayes work?
 
@@ -408,7 +410,7 @@ We will cover the following:
 - Limitations of Naive Bayes
 - Where Naive Bayes is used today
 
-Let's get started: [How does Naive Bayes work?](https://outcomeschool.com/blog/naive-bayes)
+Let's get started: [How does Naive Bayes work?](lessons/naive-bayes.md)
 
 ### 1.10 What Are L1 and L2 Loss Functions?
 
@@ -420,7 +422,7 @@ We will cover the following:
 - L2 Loss Function
 - How to decide between L1 and L2 Loss Function?
 
-Let's get started: [What Are L1 and L2 Loss Functions?](https://outcomeschool.com/blog/l1-and-l2-loss-functions)
+Let's get started: [What Are L1 and L2 Loss Functions?](lessons/l1-and-l2-loss-functions.md)
 
 ### 1.11 What is Regularization in Machine Learning? L1 vs L2 Explained
 
@@ -432,7 +434,7 @@ We will cover the following:
 - L1 Regularization or Lasso Regularization
 - L2 Regularization or Ridge Regularization
 
-Let's get started: [What is Regularization in Machine Learning? L1 vs L2 Explained](https://outcomeschool.com/blog/regularization-in-machine-learning)
+Let's get started: [What is Regularization in Machine Learning? L1 vs L2 Explained](lessons/regularization-in-machine-learning.md)
 
 ### 1.12 Why do we split data into train, validation, and test sets?
 
@@ -449,7 +451,7 @@ We will cover the following:
 - Common mistakes: data leakage
 - When the simple split is not enough
 
-Let's get started: [Why do we split data into train, validation, and test sets?](https://outcomeschool.com/blog/train-validation-test-split)
+Let's get started: [Why do we split data into train, validation, and test sets?](lessons/train-validation-test-split.md)
 
 ### 1.13 How does Cross-Validation work?
 
@@ -468,7 +470,7 @@ We will cover the following:
 - Common mistakes while using Cross-Validation
 - Where Cross-Validation works well and where it fails
 
-Let's get started: [How does Cross-Validation work?](https://outcomeschool.com/blog/cross-validation)
+Let's get started: [How does Cross-Validation work?](lessons/cross-validation.md)
 
 ### 1.14 How does the Bias-Variance Tradeoff work?
 
@@ -487,7 +489,7 @@ We will cover the following:
 - How to detect high bias and high variance
 - How to fix high bias and high variance
 
-Let's get started: [How does the Bias-Variance Tradeoff work?](https://outcomeschool.com/blog/bias-variance-tradeoff)
+Let's get started: [How does the Bias-Variance Tradeoff work?](lessons/bias-variance-tradeoff.md)
 
 ### 1.15 How do Decision Trees and Random Forests work?
 
@@ -508,7 +510,7 @@ We will cover the following:
 - Seeing it in code
 - Decision Tree vs Random Forest
 
-Let's get started: [How do Decision Trees and Random Forests work?](https://outcomeschool.com/blog/decision-trees-and-random-forests)
+Let's get started: [How do Decision Trees and Random Forests work?](lessons/decision-trees-and-random-forests.md)
 
 ### 1.16 How does Gradient Boosting work?
 
@@ -528,7 +530,7 @@ We will cover the following:
 - Gradient Boosting vs Random Forest
 - Popular libraries and where Gradient Boosting works well
 
-Let's get started: [How does Gradient Boosting work?](https://outcomeschool.com/blog/gradient-boosting)
+Let's get started: [How does Gradient Boosting work?](lessons/gradient-boosting.md)
 
 ### 1.17 How does K-Means Clustering work?
 
@@ -547,7 +549,7 @@ We will cover the following:
 - Common problems and how to fix them
 - Where K-Means works well and where it fails
 
-Let's get started: [How does K-Means Clustering work?](https://outcomeschool.com/blog/k-means-clustering)
+Let's get started: [How does K-Means Clustering work?](lessons/k-means-clustering.md)
 
 ### 1.18 How does PCA work?
 
@@ -569,7 +571,7 @@ We will cover the following:
 - Limitations of PCA
 - Where PCA is used
 
-Let's get started: [How does PCA work?](https://outcomeschool.com/blog/principal-component-analysis-pca)
+Let's get started: [How does PCA work?](lessons/principal-component-analysis-pca.md)
 
 ### 1.19 How does Data Augmentation work?
 
@@ -586,7 +588,7 @@ We will cover the following:
 - A step-by-step numeric walkthrough
 - When to use Data Augmentation
 
-Let's get started: [How does Data Augmentation work?](https://outcomeschool.com/blog/data-augmentation)
+Let's get started: [How does Data Augmentation work?](lessons/data-augmentation.md)
 
 ### 1.20 What is Reinforcement Learning?
 
@@ -607,7 +609,7 @@ We will cover the following:
 - Why Reinforcement Learning Is Hard
 - Quick Summary
 
-Let's get started: [What is Reinforcement Learning?](https://outcomeschool.com/blog/reinforcement-learning)
+Let's get started: [What is Reinforcement Learning?](lessons/reinforcement-learning.md)
 
 ### 1.21 What is a Markov Decision Process (MDP)?
 
@@ -625,7 +627,7 @@ We will cover the following:
 - Episodic vs Continuing Tasks
 - An LLM Generating Text as an MDP
 
-Let's get started: [What is a Markov Decision Process (MDP)?](https://outcomeschool.com/blog/markov-decision-process-mdp)
+Let's get started: [What is a Markov Decision Process (MDP)?](lessons/markov-decision-process-mdp.md)
 
 ### 1.22 What is Exploration vs Exploitation in Reinforcement Learning?
 
@@ -646,7 +648,7 @@ We will cover the following:
 - Comparing the Strategies
 - Exploration in LLM Reinforcement Learning
 
-Let's get started: [What is Exploration vs Exploitation in Reinforcement Learning?](https://outcomeschool.com/blog/exploration-vs-exploitation)
+Let's get started: [What is Exploration vs Exploitation in Reinforcement Learning?](lessons/exploration-vs-exploitation.md)
 
 ### 1.23 What is a Value Function? Q-Learning Explained Step by Step
 
@@ -667,7 +669,7 @@ We will cover the following:
 - Q-Learning in Python
 - Limitation of the Q-table and Deep Q-Network
 
-Let's get started: [What is a Value Function? Q-Learning Explained Step by Step](https://outcomeschool.com/blog/value-function-and-q-learning)
+Let's get started: [What is a Value Function? Q-Learning Explained Step by Step](lessons/value-function-and-q-learning.md)
 
 ### 1.24 What is Policy Gradient? The REINFORCE Algorithm Explained
 
@@ -686,7 +688,7 @@ We will cover the following:
 - Baseline Subtraction
 - Connection to LLM Training
 
-Let's get started: [What is Policy Gradient? The REINFORCE Algorithm Explained](https://outcomeschool.com/blog/policy-gradient-reinforce)
+Let's get started: [What is Policy Gradient? The REINFORCE Algorithm Explained](lessons/policy-gradient-reinforce.md)
 
 ### 1.25 What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained
 
@@ -704,7 +706,7 @@ We will cover the following:
 - Why Actor-Critic works better
 - Where Actor-Critic is used
 
-Let's get started: [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](https://outcomeschool.com/blog/actor-critic)
+Let's get started: [What is Actor-Critic in Reinforcement Learning? The Advantage Function Explained](lessons/actor-critic.md)
 
 ### 1.26 What is Contrastive Learning? How It Works Step by Step
 
@@ -721,7 +723,7 @@ We will cover the following:
 - Popular Contrastive Learning methods.
 - Real-world use cases of Contrastive Learning.
 
-Let's get started: [What is Contrastive Learning? How It Works Step by Step](https://outcomeschool.com/blog/contrastive-learning)
+Let's get started: [What is Contrastive Learning? How It Works Step by Step](lessons/contrastive-learning.md)
 
 ### 1.27 How does Self-Supervised Learning work?
 
@@ -739,7 +741,7 @@ We will cover the following:
 - Why Self-Supervised Learning works so well
 - Where Self-Supervised Learning is used
 
-Let's get started: [How does Self-Supervised Learning work?](https://outcomeschool.com/blog/self-supervised-learning)
+Let's get started: [How does Self-Supervised Learning work?](lessons/self-supervised-learning.md)
 
 ### 1.28 How does Semi-Supervised Learning work?
 
@@ -755,7 +757,7 @@ We will cover the following:
 - How label propagation works
 - Where semi-supervised learning is used
 
-Let's get started: [How does Semi-Supervised Learning work?](https://outcomeschool.com/blog/semi-supervised-learning)
+Let's get started: [How does Semi-Supervised Learning work?](lessons/semi-supervised-learning.md)
 
 ### 1.29 How does a Recommendation System work?
 
@@ -774,7 +776,7 @@ We will cover the following:
 - The modern two-stage design: candidate generation and ranking
 - How big platforms combine everything
 
-Let's get started: [How does a Recommendation System work?](https://outcomeschool.com/blog/recommendation-system)
+Let's get started: [How does a Recommendation System work?](lessons/recommendation-system.md)
 
 ### 1.30 What is Explainable AI?
 
@@ -790,7 +792,7 @@ We will cover the following:
 - The accuracy and explainability trade-off
 - Where it is used
 
-Let's get started: [What is Explainable AI?](https://outcomeschool.com/blog/explainable-ai-xai)
+Let's get started: [What is Explainable AI?](lessons/explainable-ai-xai.md)
 
 **Videos and more resources for Module 1:**
 
@@ -807,35 +809,35 @@ By the end of this module, we will be able to explain how a neural network train
 
 **Lessons in this module:**
 
-1. [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
-2. [What is Bias In Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
-3. [What is a Multilayer Perceptron (MLP) and How Does It Work?](https://outcomeschool.com/blog/multilayer-perceptron-mlp)
-4. [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions)
-5. [What is the Softmax Function and How Does It Work?](https://outcomeschool.com/blog/softmax-function)
-6. [What are Logits in Machine Learning?](https://outcomeschool.com/blog/logits-in-machine-learning)
-7. [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
-8. [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
-9. [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](https://outcomeschool.com/blog/epoch-batch-and-iteration)
-10. [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
-11. [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
-12. [How do learning rate schedules and warmup work?](https://outcomeschool.com/blog/learning-rate-schedules-and-warmup)
-13. [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
-14. [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
-15. [What is Entropy in Information Theory?](https://outcomeschool.com/blog/entropy-in-information-theory)
-16. [What is Cross-Entropy Loss?](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
-17. [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
-18. [What is Dropout in Neural Networks and How Does It Work?](https://outcomeschool.com/blog/dropout-in-neural-networks)
-19. [How does early stopping work?](https://outcomeschool.com/blog/early-stopping)
-20. [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
-21. [What is RMSNorm? Root Mean Square Layer Normalization Explained](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
-22. [Convolutional Neural Networks](https://outcomeschool.com/blog/convolutional-neural-network-cnn)
-23. [How does Object Detection work?](https://outcomeschool.com/blog/object-detection)
-24. [How does Semantic Segmentation work?](https://outcomeschool.com/blog/semantic-segmentation)
-25. [What is a Recurrent Neural Network (RNN)?](https://outcomeschool.com/blog/recurrent-neural-network)
-26. [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
-27. [How does OCR with Deep Learning work?](https://outcomeschool.com/blog/optical-character-recognition-ocr)
-28. [How does PyTorch work?](https://outcomeschool.com/blog/how-does-pytorch-work)
-29. [How Does The Machine Learning Library TensorFlow Work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work)
+1. [What is a Neural Network and How Does It Work?](lessons/neural-network.md)
+2. [What is Bias In Artificial Neural Network?](lessons/bias-in-artificial-neural-network.md)
+3. [What is a Multilayer Perceptron (MLP) and How Does It Work?](lessons/multilayer-perceptron-mlp.md)
+4. [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](lessons/activation-functions.md)
+5. [What is the Softmax Function and How Does It Work?](lessons/softmax-function.md)
+6. [What are Logits in Machine Learning?](lessons/logits-in-machine-learning.md)
+7. [How Does Matrix Multiplication Work in Neural Networks?](lessons/matrix-multiplication-in-neural-networks.md)
+8. [How Does Gradient Descent Work?](lessons/math-behind-gradient-descent.md)
+9. [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](lessons/epoch-batch-and-iteration.md)
+10. [How Does Backpropagation Work? The Math Explained Step by Step](lessons/math-behind-backpropagation.md)
+11. [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](lessons/optimizers-in-deep-learning.md)
+12. [How do learning rate schedules and warmup work?](lessons/learning-rate-schedules-and-warmup.md)
+13. [Why do vanishing and exploding gradients happen?](lessons/vanishing-and-exploding-gradients.md)
+14. [Why Do We Initialize Weights Randomly in Neural Networks?](lessons/random-weight-initialization.md)
+15. [What is Entropy in Information Theory?](lessons/entropy-in-information-theory.md)
+16. [What is Cross-Entropy Loss?](lessons/math-behind-cross-entropy-loss.md)
+17. [What is KL Divergence? The Math Explained Step by Step](lessons/kl-divergence.md)
+18. [What is Dropout in Neural Networks and How Does It Work?](lessons/dropout-in-neural-networks.md)
+19. [How does early stopping work?](lessons/early-stopping.md)
+20. [Batch Normalization vs Layer Normalization](lessons/batch-normalization-vs-layer-normalization.md)
+21. [What is RMSNorm? Root Mean Square Layer Normalization Explained](lessons/rmsnorm-root-mean-square-layer-normalization.md)
+22. [Convolutional Neural Networks](lessons/convolutional-neural-network-cnn.md)
+23. [How does Object Detection work?](lessons/object-detection.md)
+24. [How does Semantic Segmentation work?](lessons/semantic-segmentation.md)
+25. [What is a Recurrent Neural Network (RNN)?](lessons/recurrent-neural-network.md)
+26. [How do LSTM and GRU work?](lessons/lstm-and-gru.md)
+27. [How does OCR with Deep Learning work?](lessons/optical-character-recognition-ocr.md)
+28. [How does PyTorch work?](lessons/how-does-pytorch-work.md)
+29. [How Does The Machine Learning Library TensorFlow Work?](lessons/how-does-the-machine-learning-library-tensorflow-work.md)
 
 ---
 
@@ -855,13 +857,13 @@ We will cover the following:
 - The training loop
 - Where are Neural Networks used?
 
-Let's get started: [What is a Neural Network and How Does It Work?](https://outcomeschool.com/blog/neural-network)
+Let's get started: [What is a Neural Network and How Does It Work?](lessons/neural-network.md)
 
 ### 2.2 What is Bias In Artificial Neural Network?
 
 In this blog, we will learn what is Bias In Artificial Neural Network.
 
-Let's get started: [What is Bias In Artificial Neural Network?](https://outcomeschool.com/blog/bias-in-artificial-neural-network)
+Let's get started: [What is Bias In Artificial Neural Network?](lessons/bias-in-artificial-neural-network.md)
 
 ### 2.3 What is a Multilayer Perceptron (MLP) and How Does It Work?
 
@@ -877,7 +879,7 @@ We will cover the following:
 - How Does an MLP Learn?
 - Where are MLPs Used Today?
 
-Let's get started: [What is a Multilayer Perceptron (MLP) and How Does It Work?](https://outcomeschool.com/blog/multilayer-perceptron-mlp)
+Let's get started: [What is a Multilayer Perceptron (MLP) and How Does It Work?](lessons/multilayer-perceptron-mlp.md)
 
 ### 2.4 What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained
 
@@ -895,7 +897,7 @@ We will cover the following:
 - Which Activation Function goes where?
 - Comparison of Activation Functions
 
-Let's get started: [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](https://outcomeschool.com/blog/activation-functions)
+Let's get started: [What are Activation Functions in Neural Networks? Sigmoid, Tanh, ReLU, and Softmax Explained](lessons/activation-functions.md)
 
 ### 2.5 What is the Softmax Function and How Does It Work?
 
@@ -913,7 +915,7 @@ We will cover the following:
 - The Numerical Stability Trick
 - Where is Softmax Used?
 
-Let's get started: [What is the Softmax Function and How Does It Work?](https://outcomeschool.com/blog/softmax-function)
+Let's get started: [What is the Softmax Function and How Does It Work?](lessons/softmax-function.md)
 
 ### 2.6 What are Logits in Machine Learning?
 
@@ -929,7 +931,7 @@ We will cover the following:
 - Why do Models output Logits instead of Probabilities?
 - Logits in LLMs
 
-Let's get started: [What are Logits in Machine Learning?](https://outcomeschool.com/blog/logits-in-machine-learning)
+Let's get started: [What are Logits in Machine Learning?](lessons/logits-in-machine-learning.md)
 
 ### 2.7 How Does Matrix Multiplication Work in Neural Networks?
 
@@ -945,7 +947,7 @@ We will cover the following:
 - Processing Many Inputs at Once
 - Why is the GPU Perfect for Matrix Multiplication?
 
-Let's get started: [How Does Matrix Multiplication Work in Neural Networks?](https://outcomeschool.com/blog/matrix-multiplication-in-neural-networks)
+Let's get started: [How Does Matrix Multiplication Work in Neural Networks?](lessons/matrix-multiplication-in-neural-networks.md)
 
 ### 2.8 How Does Gradient Descent Work?
 
@@ -965,7 +967,7 @@ We will cover the following:
 - Gradient Descent in Python
 - Putting It All Together
 
-Let's get started: [How Does Gradient Descent Work?](https://outcomeschool.com/blog/math-behind-gradient-descent)
+Let's get started: [How Does Gradient Descent Work?](lessons/math-behind-gradient-descent.md)
 
 ### 2.9 What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?
 
@@ -985,7 +987,7 @@ We will cover the following:
 - How many Epochs do we need?
 - A simple training loop in Python
 
-Let's get started: [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](https://outcomeschool.com/blog/epoch-batch-and-iteration)
+Let's get started: [What are Epoch, Batch, Batch Size, and Iteration in Machine Learning?](lessons/epoch-batch-and-iteration.md)
 
 Watch the video: [Epoch, Batch, Batch Size, Iteration](https://www.youtube.com/watch?v=NFLlXE-6vno)
 
@@ -1004,7 +1006,7 @@ We will cover the following:
 - Weight Update Using Gradient Descent
 - Backpropagation in Python
 
-Let's get started: [How Does Backpropagation Work? The Math Explained Step by Step](https://outcomeschool.com/blog/math-behind-backpropagation)
+Let's get started: [How Does Backpropagation Work? The Math Explained Step by Step](lessons/math-behind-backpropagation.md)
 
 ### 2.11 What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained
 
@@ -1022,7 +1024,7 @@ We will cover the following:
 - AdamW
 - Comparison of SGD, Momentum, RMSProp, and Adam
 
-Let's get started: [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](https://outcomeschool.com/blog/optimizers-in-deep-learning)
+Let's get started: [What are Optimizers in Deep Learning? SGD, Momentum, RMSProp, and Adam Explained](lessons/optimizers-in-deep-learning.md)
 
 ### 2.12 How do learning rate schedules and warmup work?
 
@@ -1044,7 +1046,7 @@ We will cover the following:
 - Comparison of schedules
 - When to use which one
 
-Let's get started: [How do learning rate schedules and warmup work?](https://outcomeschool.com/blog/learning-rate-schedules-and-warmup)
+Let's get started: [How do learning rate schedules and warmup work?](lessons/learning-rate-schedules-and-warmup.md)
 
 ### 2.13 Why do vanishing and exploding gradients happen?
 
@@ -1065,7 +1067,7 @@ We will cover the following:
 - How do we fix exploding gradients?
 - Comparison of vanishing and exploding gradients
 
-Let's get started: [Why do vanishing and exploding gradients happen?](https://outcomeschool.com/blog/vanishing-and-exploding-gradients)
+Let's get started: [Why do vanishing and exploding gradients happen?](lessons/vanishing-and-exploding-gradients.md)
 
 ### 2.14 Why Do We Initialize Weights Randomly in Neural Networks?
 
@@ -1080,7 +1082,7 @@ We will cover the following:
 - What about the biases?
 - Why do we fix the random seed?
 
-Let's get started: [Why Do We Initialize Weights Randomly in Neural Networks?](https://outcomeschool.com/blog/random-weight-initialization)
+Let's get started: [Why Do We Initialize Weights Randomly in Neural Networks?](lessons/random-weight-initialization.md)
 
 ### 2.15 What is Entropy in Information Theory?
 
@@ -1096,7 +1098,7 @@ We will cover the following:
 - Low entropy vs high entropy
 - Where Entropy is used
 
-Let's get started: [What is Entropy in Information Theory?](https://outcomeschool.com/blog/entropy-in-information-theory)
+Let's get started: [What is Entropy in Information Theory?](lessons/entropy-in-information-theory.md)
 
 ### 2.16 What is Cross-Entropy Loss?
 
@@ -1115,7 +1117,7 @@ We will cover the following:
 - The Gradient of Cross-Entropy Loss
 - Quick Summary
 
-Let's get started: [What is Cross-Entropy Loss?](https://outcomeschool.com/blog/math-behind-cross-entropy-loss)
+Let's get started: [What is Cross-Entropy Loss?](lessons/math-behind-cross-entropy-loss.md)
 
 Watch the video: [Softmax Activation Function in Machine Learning](https://www.youtube.com/watch?v=2Zx6x01WwWM)
 
@@ -1133,7 +1135,7 @@ We will cover the following:
 - KL Divergence and Cross-Entropy
 - Where is KL Divergence used?
 
-Let's get started: [What is KL Divergence? The Math Explained Step by Step](https://outcomeschool.com/blog/kl-divergence)
+Let's get started: [What is KL Divergence? The Math Explained Step by Step](lessons/kl-divergence.md)
 
 ### 2.18 What is Dropout in Neural Networks and How Does It Work?
 
@@ -1152,7 +1154,7 @@ We will cover the following:
 - Advantages of Dropout
 - Where Dropout is used
 
-Let's get started: [What is Dropout in Neural Networks and How Does It Work?](https://outcomeschool.com/blog/dropout-in-neural-networks)
+Let's get started: [What is Dropout in Neural Networks and How Does It Work?](lessons/dropout-in-neural-networks.md)
 
 ### 2.19 How does early stopping work?
 
@@ -1169,7 +1171,7 @@ We will cover the following:
 - A simple code example
 - When to use early stopping
 
-Let's get started: [How does early stopping work?](https://outcomeschool.com/blog/early-stopping)
+Let's get started: [How does early stopping work?](lessons/early-stopping.md)
 
 ### 2.20 Batch Normalization vs Layer Normalization
 
@@ -1184,11 +1186,11 @@ We will cover the following:
 - Batch Normalization vs Layer Normalization
 - When to use which one?
 
-Let's get started: [Batch Normalization vs Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization)
+Let's get started: [Batch Normalization vs Layer Normalization](lessons/batch-normalization-vs-layer-normalization.md)
 
 ### 2.21 What is RMSNorm? Root Mean Square Layer Normalization Explained
 
-In this blog, we will learn about RMSNorm, a faster and simpler alternative to [Layer Normalization](https://outcomeschool.com/blog/batch-normalization-vs-layer-normalization) that powers most modern Large Language Models like Llama, Mistral, Gemma, Qwen, PaLM, and DeepSeek.
+In this blog, we will learn about RMSNorm, a faster and simpler alternative to [Layer Normalization](lessons/batch-normalization-vs-layer-normalization.md) that powers most modern Large Language Models like Llama, Mistral, Gemma, Qwen, PaLM, and DeepSeek.
 
 We will cover the following:
 
@@ -1202,7 +1204,7 @@ We will cover the following:
 - Where RMSNorm fits in a Transformer
 - Quick Summary
 
-Let's get started: [What is RMSNorm? Root Mean Square Layer Normalization Explained](https://outcomeschool.com/blog/rmsnorm-root-mean-square-layer-normalization)
+Let's get started: [What is RMSNorm? Root Mean Square Layer Normalization Explained](lessons/rmsnorm-root-mean-square-layer-normalization.md)
 
 ### 2.22 Convolutional Neural Networks
 
@@ -1225,7 +1227,7 @@ We will cover the following:
 - Famous CNNs
 - Where CNNs work well and where they fail
 
-Let's get started: [Convolutional Neural Networks](https://outcomeschool.com/blog/convolutional-neural-network-cnn)
+Let's get started: [Convolutional Neural Networks](lessons/convolutional-neural-network-cnn.md)
 
 ### 2.23 How does Object Detection work?
 
@@ -1247,7 +1249,7 @@ We will cover the following:
 - A simple worked example
 - Where Object Detection is used
 
-Let's get started: [How does Object Detection work?](https://outcomeschool.com/blog/object-detection)
+Let's get started: [How does Object Detection work?](lessons/object-detection.md)
 
 ### 2.24 How does Semantic Segmentation work?
 
@@ -1264,13 +1266,13 @@ We will cover the following:
 - How does the model learn?
 - Real-world use cases
 
-Let's get started: [How does Semantic Segmentation work?](https://outcomeschool.com/blog/semantic-segmentation)
+Let's get started: [How does Semantic Segmentation work?](lessons/semantic-segmentation.md)
 
 ### 2.25 What is a Recurrent Neural Network (RNN)?
 
 In this blog, we will learn about the Recurrent Neural Network.
 
-Let's get started: [What is a Recurrent Neural Network (RNN)?](https://outcomeschool.com/blog/recurrent-neural-network)
+Let's get started: [What is a Recurrent Neural Network (RNN)?](lessons/recurrent-neural-network.md)
 
 ### 2.26 How do LSTM and GRU work?
 
@@ -1295,7 +1297,7 @@ We will cover the following:
 - LSTM vs GRU
 - Where are LSTM and GRU used today?
 
-Let's get started: [How do LSTM and GRU work?](https://outcomeschool.com/blog/lstm-and-gru)
+Let's get started: [How do LSTM and GRU work?](lessons/lstm-and-gru.md)
 
 ### 2.27 How does OCR with Deep Learning work?
 
@@ -1314,7 +1316,7 @@ We will cover the following:
 - A simple code example
 - Where OCR is used in the real world
 
-Let's get started: [How does OCR with Deep Learning work?](https://outcomeschool.com/blog/optical-character-recognition-ocr)
+Let's get started: [How does OCR with Deep Learning work?](lessons/optical-character-recognition-ocr.md)
 
 ### 2.28 How does PyTorch work?
 
@@ -1331,13 +1333,13 @@ We will cover the following:
 - What is the GPU and why does PyTorch use it?
 - Why is PyTorch so popular?
 
-Let's get started: [How does PyTorch work?](https://outcomeschool.com/blog/how-does-pytorch-work)
+Let's get started: [How does PyTorch work?](lessons/how-does-pytorch-work.md)
 
 ### 2.29 How Does The Machine Learning Library TensorFlow Work?
 
 In this blog, we will learn how the Machine Learning library TensorFlow works.
 
-Let's get started: [How Does The Machine Learning Library TensorFlow Work?](https://outcomeschool.com/blog/how-does-the-machine-learning-library-tensorflow-work)
+Let's get started: [How Does The Machine Learning Library TensorFlow Work?](lessons/how-does-the-machine-learning-library-tensorflow-work.md)
 
 **Videos and more resources for Module 2:**
 
@@ -1355,24 +1357,24 @@ By the end of this module, we will be able to draw the Transformer from memory a
 
 **Lessons in this module:**
 
-1. [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
-2. [How does an LLM work?](https://outcomeschool.com/blog/large-language-model-llm)
-3. [What are Autoregressive Models?](https://outcomeschool.com/blog/autoregressive-models)
-4. [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
-5. [What is Byte Pair Encoding (BPE) in LLMs?](https://outcomeschool.com/blog/bpe-in-llms)
-6. [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
-7. [How does Word2Vec work?](https://outcomeschool.com/blog/word2vec)
-8. [How do RNNs and Transformers differ?](https://outcomeschool.com/blog/how-do-rnns-and-transformers-differ)
-9. [How Does the Transformer Architecture Work?](https://outcomeschool.com/blog/decoding-transformer-architecture)
-10. [Encoder vs Decoder in Transformers](https://outcomeschool.com/blog/encoder-vs-decoder-in-transformers)
-11. [What is Self Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/self-attention-in-transformers)
-12. [How Does Attention Work? The Math Behind Q, K, and V Step by Step](https://outcomeschool.com/blog/math-behind-attention-qkv)
-13. [Why Do We Scale Attention by √dₖ? The Math Behind the Scaling Factor](https://outcomeschool.com/blog/scaling-dot-product-attention)
-14. [What is Causal Masking in Attention and Why Do LLMs Need It?](https://outcomeschool.com/blog/causal-masking-in-attention)
-15. [What is Multi-Head Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/multi-head-attention-in-transformers)
-16. [What is Cross Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/cross-attention-in-transformers)
-17. [What is RoPE (Rotary Position Embedding)? The Math Behind It](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
-18. [What is the Feed-Forward Network in LLMs and What Does It Do?](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+1. [What is Generative AI?](lessons/what-is-generative-ai.md)
+2. [How does an LLM work?](lessons/large-language-model-llm.md)
+3. [What are Autoregressive Models?](lessons/autoregressive-models.md)
+4. [Tokenization in LLMs](lessons/tokenization-in-llms.md)
+5. [What is Byte Pair Encoding (BPE) in LLMs?](lessons/bpe-in-llms.md)
+6. [What are Embeddings?](lessons/what-are-embeddings.md)
+7. [How does Word2Vec work?](lessons/word2vec.md)
+8. [How do RNNs and Transformers differ?](lessons/how-do-rnns-and-transformers-differ.md)
+9. [How Does the Transformer Architecture Work?](lessons/decoding-transformer-architecture.md)
+10. [Encoder vs Decoder in Transformers](lessons/encoder-vs-decoder-in-transformers.md)
+11. [What is Self Attention in Transformers and How Does It Work?](lessons/self-attention-in-transformers.md)
+12. [How Does Attention Work? The Math Behind Q, K, and V Step by Step](lessons/math-behind-attention-qkv.md)
+13. [Why Do We Scale Attention by √dₖ? The Math Behind the Scaling Factor](lessons/scaling-dot-product-attention.md)
+14. [What is Causal Masking in Attention and Why Do LLMs Need It?](lessons/causal-masking-in-attention.md)
+15. [What is Multi-Head Attention in Transformers and How Does It Work?](lessons/multi-head-attention-in-transformers.md)
+16. [What is Cross Attention in Transformers and How Does It Work?](lessons/cross-attention-in-transformers.md)
+17. [What is RoPE (Rotary Position Embedding)? The Math Behind It](lessons/math-behind-rope-rotary-position-embedding.md)
+18. [What is the Feed-Forward Network in LLMs and What Does It Do?](lessons/feed-forward-networks-in-llms.md)
 
 ---
 
@@ -1395,7 +1397,7 @@ We will cover the following:
 - The limitations we must know
 - Summary
 
-Let's get started: [What is Generative AI?](https://outcomeschool.com/blog/what-is-generative-ai)
+Let's get started: [What is Generative AI?](lessons/what-is-generative-ai.md)
 
 ### 3.2 How does an LLM work?
 
@@ -1416,7 +1418,7 @@ We will cover the following:
 - Why an LLM sometimes makes things up (Hallucination)
 - Real-World Applications
 
-Let's get started: [How does an LLM work?](https://outcomeschool.com/blog/large-language-model-llm)
+Let's get started: [How does an LLM work?](lessons/large-language-model-llm.md)
 
 ### 3.3 What are Autoregressive Models?
 
@@ -1436,7 +1438,7 @@ We will cover the following:
 - Pros and Cons of Autoregressive Models
 - Quick Summary
 
-Let's get started: [What are Autoregressive Models?](https://outcomeschool.com/blog/autoregressive-models)
+Let's get started: [What are Autoregressive Models?](lessons/autoregressive-models.md)
 
 ### 3.4 Tokenization in LLMs
 
@@ -1458,7 +1460,7 @@ We will cover the following:
 - How Tokenization affects LLMs in practice
 - Where it works well and where it fails
 
-Let's get started: [Tokenization in LLMs](https://outcomeschool.com/blog/tokenization-in-llms)
+Let's get started: [Tokenization in LLMs](lessons/tokenization-in-llms.md)
 
 Watch the video: [Tokenization in Large Language Models (LLMs)](https://www.youtube.com/watch?v=sK2s9I84EVI)
 
@@ -1475,7 +1477,7 @@ We will cover the following:
 - How BPE Tokenizes New Text
 - Why BPE is Used in Modern LLMs
 
-Let's get started: [What is Byte Pair Encoding (BPE) in LLMs?](https://outcomeschool.com/blog/bpe-in-llms)
+Let's get started: [What is Byte Pair Encoding (BPE) in LLMs?](lessons/bpe-in-llms.md)
 
 ### 3.6 What are Embeddings?
 
@@ -1495,7 +1497,7 @@ We will cover the following:
 - Things we must be careful about
 - Summary
 
-Let's get started: [What are Embeddings?](https://outcomeschool.com/blog/what-are-embeddings)
+Let's get started: [What are Embeddings?](lessons/what-are-embeddings.md)
 
 Watch the video: [Embeddings in Machine Learning](https://www.youtube.com/watch?v=LedXW6xl21s)
 
@@ -1518,7 +1520,7 @@ We will cover the following:
 - Limitations of Word2Vec
 - Where Word2Vec is used
 
-Let's get started: [How does Word2Vec work?](https://outcomeschool.com/blog/word2vec)
+Let's get started: [How does Word2Vec work?](lessons/word2vec.md)
 
 ### 3.8 How do RNNs and Transformers differ?
 
@@ -1536,7 +1538,7 @@ We will cover the following:
 - When to use which one?
 - Summary
 
-Let's get started: [How do RNNs and Transformers differ?](https://outcomeschool.com/blog/how-do-rnns-and-transformers-differ)
+Let's get started: [How do RNNs and Transformers differ?](lessons/how-do-rnns-and-transformers-differ.md)
 
 ### 3.9 How Does the Transformer Architecture Work?
 
@@ -1554,7 +1556,7 @@ We will cover the following:
 - The three variants of the Transformer
 - Why the Transformer is so powerful
 
-Let's get started: [How Does the Transformer Architecture Work?](https://outcomeschool.com/blog/decoding-transformer-architecture)
+Let's get started: [How Does the Transformer Architecture Work?](lessons/decoding-transformer-architecture.md)
 
 ### 3.10 Encoder vs Decoder in Transformers
 
@@ -1572,7 +1574,7 @@ We will cover the following:
 - When to use which one?
 - Summary
 
-Let's get started: [Encoder vs Decoder in Transformers](https://outcomeschool.com/blog/encoder-vs-decoder-in-transformers)
+Let's get started: [Encoder vs Decoder in Transformers](lessons/encoder-vs-decoder-in-transformers.md)
 
 ### 3.11 What is Self Attention in Transformers and How Does It Work?
 
@@ -1589,7 +1591,7 @@ We will cover the following:
 - Multi-Head Self Attention
 - Where Self Attention is used
 
-Let's get started: [What is Self Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/self-attention-in-transformers)
+Let's get started: [What is Self Attention in Transformers and How Does It Work?](lessons/self-attention-in-transformers.md)
 
 ### 3.12 How Does Attention Work? The Math Behind Q, K, and V Step by Step
 
@@ -1606,7 +1608,7 @@ We will cover the following:
 - Computing the Final Output (Attention Weights x V)
 - Putting It All Together
 
-Let's get started: [How Does Attention Work? The Math Behind Q, K, and V Step by Step](https://outcomeschool.com/blog/math-behind-attention-qkv)
+Let's get started: [How Does Attention Work? The Math Behind Q, K, and V Step by Step](lessons/math-behind-attention-qkv.md)
 
 Watch the video: [Softmax Activation Function in Machine Learning](https://www.youtube.com/watch?v=2Zx6x01WwWM)
 
@@ -1626,7 +1628,7 @@ We will cover the following:
 - Seeing It with Real Numbers
 - Putting It All Together
 
-Let's get started: [Why Do We Scale Attention by √dₖ? The Math Behind the Scaling Factor](https://outcomeschool.com/blog/scaling-dot-product-attention)
+Let's get started: [Why Do We Scale Attention by √dₖ? The Math Behind the Scaling Factor](lessons/scaling-dot-product-attention.md)
 
 ### 3.14 What is Causal Masking in Attention and Why Do LLMs Need It?
 
@@ -1639,7 +1641,7 @@ We will cover the following:
 - Implementation of Causal Masking
 - The Causal Mask Matrix
 
-Let's get started: [What is Causal Masking in Attention and Why Do LLMs Need It?](https://outcomeschool.com/blog/causal-masking-in-attention)
+Let's get started: [What is Causal Masking in Attention and Why Do LLMs Need It?](lessons/causal-masking-in-attention.md)
 
 ### 3.15 What is Multi-Head Attention in Transformers and How Does It Work?
 
@@ -1655,7 +1657,7 @@ We will cover the following:
 - Where Multi-Head Attention is used
 - Advantages of Multi-Head Attention
 
-Let's get started: [What is Multi-Head Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/multi-head-attention-in-transformers)
+Let's get started: [What is Multi-Head Attention in Transformers and How Does It Work?](lessons/multi-head-attention-in-transformers.md)
 
 ### 3.16 What is Cross Attention in Transformers and How Does It Work?
 
@@ -1672,7 +1674,7 @@ We will cover the following:
 - Where Cross Attention is used
 - Importance of Cross Attention
 
-Let's get started: [What is Cross Attention in Transformers and How Does It Work?](https://outcomeschool.com/blog/cross-attention-in-transformers)
+Let's get started: [What is Cross Attention in Transformers and How Does It Work?](lessons/cross-attention-in-transformers.md)
 
 ### 3.17 What is RoPE (Rotary Position Embedding)? The Math Behind It
 
@@ -1691,7 +1693,7 @@ We will cover the following:
 - Real-World Use Cases
 - Quick Summary
 
-Let's get started: [What is RoPE (Rotary Position Embedding)? The Math Behind It](https://outcomeschool.com/blog/math-behind-rope-rotary-position-embedding)
+Let's get started: [What is RoPE (Rotary Position Embedding)? The Math Behind It](lessons/math-behind-rope-rotary-position-embedding.md)
 
 ### 3.18 What is the Feed-Forward Network in LLMs and What Does It Do?
 
@@ -1711,7 +1713,7 @@ We will cover the following:
 - Feed-Forward Networks in Mixture of Experts
 - Why Feed-Forward Networks Are So Important
 
-Let's get started: [What is the Feed-Forward Network in LLMs and What Does It Do?](https://outcomeschool.com/blog/feed-forward-networks-in-llms)
+Let's get started: [What is the Feed-Forward Network in LLMs and What Does It Do?](lessons/feed-forward-networks-in-llms.md)
 
 **Videos and more resources for Module 3:**
 
@@ -1731,15 +1733,15 @@ By the end of this module, we will know exactly what happens between the prompt 
 
 **Lessons in this module:**
 
-1. [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
-2. [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
-3. [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
-4. [What are Log Probabilities (Logprobs) in LLMs?](https://outcomeschool.com/blog/logprobs-in-llms)
-5. [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
-6. [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
-7. [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
-8. [What is the Lost in the Middle Problem in LLMs and How to Fix It?](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
-9. [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
+1. [How does Temperature control LLM output?](lessons/how-does-temperature-control-llm-output.md)
+2. [How do Top-k and Top-p Sampling work?](lessons/how-do-top-k-and-top-p-sampling-work.md)
+3. [How do Greedy Decoding and Beam Search differ?](lessons/greedy-decoding-vs-beam-search.md)
+4. [What are Log Probabilities (Logprobs) in LLMs?](lessons/logprobs-in-llms.md)
+5. [Stop Tokens in LLMs](lessons/stop-tokens-in-llms.md)
+6. [How does Token Streaming work?](lessons/how-does-token-streaming-work.md)
+7. [How does the Context Window work?](lessons/context-window.md)
+8. [What is the Lost in the Middle Problem in LLMs and How to Fix It?](lessons/lost-in-the-middle-problem-in-llms.md)
+9. [Why Do LLMs Hallucinate? The Token-Level Explanation](lessons/why-do-llms-hallucinate-the-token-level-explanation.md)
 
 ---
 
@@ -1761,7 +1763,7 @@ We will cover the following:
 - When to use which Temperature?
 - Common mistakes while using Temperature
 
-Let's get started: [How does Temperature control LLM output?](https://outcomeschool.com/blog/how-does-temperature-control-llm-output)
+Let's get started: [How does Temperature control LLM output?](lessons/how-does-temperature-control-llm-output.md)
 
 ### 4.2 How do Top-k and Top-p Sampling work?
 
@@ -1781,7 +1783,7 @@ We will cover the following:
 - How Top-k and Top-p work with Temperature
 - When to use which one
 
-Let's get started: [How do Top-k and Top-p Sampling work?](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work)
+Let's get started: [How do Top-k and Top-p Sampling work?](lessons/how-do-top-k-and-top-p-sampling-work.md)
 
 ### 4.3 How do Greedy Decoding and Beam Search differ?
 
@@ -1802,7 +1804,7 @@ We will cover the following:
 - Greedy Decoding vs Beam Search
 - When to use which one
 
-Let's get started: [How do Greedy Decoding and Beam Search differ?](https://outcomeschool.com/blog/greedy-decoding-vs-beam-search)
+Let's get started: [How do Greedy Decoding and Beam Search differ?](lessons/greedy-decoding-vs-beam-search.md)
 
 ### 4.4 What are Log Probabilities (Logprobs) in LLMs?
 
@@ -1818,7 +1820,7 @@ We will cover the following:
 - Top logprobs
 - Where are logprobs used?
 
-Let's get started: [What are Log Probabilities (Logprobs) in LLMs?](https://outcomeschool.com/blog/logprobs-in-llms)
+Let's get started: [What are Log Probabilities (Logprobs) in LLMs?](lessons/logprobs-in-llms.md)
 
 ### 4.5 Stop Tokens in LLMs
 
@@ -1836,7 +1838,7 @@ We will cover the following:
 - Stop Tokens in Chat Models
 - Common mistakes with Stop Tokens
 
-Let's get started: [Stop Tokens in LLMs](https://outcomeschool.com/blog/stop-tokens-in-llms)
+Let's get started: [Stop Tokens in LLMs](lessons/stop-tokens-in-llms.md)
 
 ### 4.6 How does Token Streaming work?
 
@@ -1855,7 +1857,7 @@ We will cover the following:
 - SSE vs WebSockets
 - Token streaming in the real world
 
-Let's get started: [How does Token Streaming work?](https://outcomeschool.com/blog/how-does-token-streaming-work)
+Let's get started: [How does Token Streaming work?](lessons/how-does-token-streaming-work.md)
 
 ### 4.7 How does the Context Window work?
 
@@ -1872,7 +1874,7 @@ We will cover the following:
 - How to manage the Context Window
 - Common mistakes while using the Context Window
 
-Let's get started: [How does the Context Window work?](https://outcomeschool.com/blog/context-window)
+Let's get started: [How does the Context Window work?](lessons/context-window.md)
 
 ### 4.8 What is the Lost in the Middle Problem in LLMs and How to Fix It?
 
@@ -1890,7 +1892,7 @@ We will cover the following:
 - How to solve the Lost in the Middle problem
 - Key points to remember
 
-Let's get started: [What is the Lost in the Middle Problem in LLMs and How to Fix It?](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms)
+Let's get started: [What is the Lost in the Middle Problem in LLMs and How to Fix It?](lessons/lost-in-the-middle-problem-in-llms.md)
 
 Watch the video: [Why is the context window limited in LLMs?](https://www.youtube.com/watch?v=CGIhxIaOg3M)
 
@@ -1910,7 +1912,7 @@ We will cover the following:
 - How to reduce hallucinations at the token level
 - Frequently asked questions
 
-Let's get started: [Why Do LLMs Hallucinate? The Token-Level Explanation](https://outcomeschool.com/blog/why-do-llms-hallucinate-the-token-level-explanation)
+Let's get started: [Why Do LLMs Hallucinate? The Token-Level Explanation](lessons/why-do-llms-hallucinate-the-token-level-explanation.md)
 
 **Videos and more resources for Module 4:**
 
@@ -1928,13 +1930,13 @@ By the end of this module, we will be able to read the architecture section of a
 
 **Lessons in this module:**
 
-1. [Evolution of LLM Architecture](https://outcomeschool.com/blog/evolution-of-llm-architecture)
-2. [What is Mixture of Experts (MoE) and How Does It Work?](https://outcomeschool.com/blog/mixture-of-experts)
-3. [What is Grouped Query Attention (GQA) and Why Do LLMs Use It?](https://outcomeschool.com/blog/grouped-query-attention)
-4. [How does Sliding Window Attention work?](https://outcomeschool.com/blog/how-does-sliding-window-attention-work)
-5. [How do Attention Sinks work?](https://outcomeschool.com/blog/how-do-attention-sinks-work)
-6. [What is Flash Attention and Why Is It So Fast?](https://outcomeschool.com/blog/decoding-flash-attention)
-7. [What is DeepSeek-V4 and How Does It Work? Architecture Explained](https://outcomeschool.com/blog/decoding-deepseek-v4)
+1. [Evolution of LLM Architecture](lessons/evolution-of-llm-architecture.md)
+2. [What is Mixture of Experts (MoE) and How Does It Work?](lessons/mixture-of-experts.md)
+3. [What is Grouped Query Attention (GQA) and Why Do LLMs Use It?](lessons/grouped-query-attention.md)
+4. [How does Sliding Window Attention work?](lessons/how-does-sliding-window-attention-work.md)
+5. [How do Attention Sinks work?](lessons/how-do-attention-sinks-work.md)
+6. [What is Flash Attention and Why Is It So Fast?](lessons/decoding-flash-attention.md)
+7. [What is DeepSeek-V4 and How Does It Work? Architecture Explained](lessons/decoding-deepseek-v4.md)
 
 ---
 
@@ -1953,7 +1955,7 @@ We will cover the following:
 - Stage 6: New Directions
 - Summary of the evolution
 
-Let's get started: [Evolution of LLM Architecture](https://outcomeschool.com/blog/evolution-of-llm-architecture)
+Let's get started: [Evolution of LLM Architecture](lessons/evolution-of-llm-architecture.md)
 
 ### 5.2 What is Mixture of Experts (MoE) and How Does It Work?
 
@@ -1970,7 +1972,7 @@ We will cover the following:
 - Advantages and challenges of MoE
 - Why MoE powers many modern LLMs
 
-Let's get started: [What is Mixture of Experts (MoE) and How Does It Work?](https://outcomeschool.com/blog/mixture-of-experts)
+Let's get started: [What is Mixture of Experts (MoE) and How Does It Work?](lessons/mixture-of-experts.md)
 
 ### 5.3 What is Grouped Query Attention (GQA) and Why Do LLMs Use It?
 
@@ -1991,7 +1993,7 @@ We will cover the following:
 - Uptraining: Converting MHA to GQA
 - Quick Summary
 
-Let's get started: [What is Grouped Query Attention (GQA) and Why Do LLMs Use It?](https://outcomeschool.com/blog/grouped-query-attention)
+Let's get started: [What is Grouped Query Attention (GQA) and Why Do LLMs Use It?](lessons/grouped-query-attention.md)
 
 ### 5.4 How does Sliding Window Attention work?
 
@@ -2008,7 +2010,7 @@ We will cover the following:
 - Where sliding window attention is used
 - Advantages and trade-offs
 
-Let's get started: [How does Sliding Window Attention work?](https://outcomeschool.com/blog/how-does-sliding-window-attention-work)
+Let's get started: [How does Sliding Window Attention work?](lessons/how-does-sliding-window-attention-work.md)
 
 ### 5.5 How do Attention Sinks work?
 
@@ -2027,7 +2029,7 @@ We will cover the following:
 - StreamingLLM and modern attention sinks
 - Importance of attention sinks
 
-Let's get started: [How do Attention Sinks work?](https://outcomeschool.com/blog/how-do-attention-sinks-work)
+Let's get started: [How do Attention Sinks work?](lessons/how-do-attention-sinks-work.md)
 
 ### 5.6 What is Flash Attention and Why Is It So Fast?
 
@@ -2046,7 +2048,7 @@ We will cover the following:
 - Flash Attention 3
 - Advantages and impact of Flash Attention
 
-Let's get started: [What is Flash Attention and Why Is It So Fast?](https://outcomeschool.com/blog/decoding-flash-attention)
+Let's get started: [What is Flash Attention and Why Is It So Fast?](lessons/decoding-flash-attention.md)
 
 ### 5.7 What is DeepSeek-V4 and How Does It Work? Architecture Explained
 
@@ -2066,7 +2068,7 @@ We will cover the following:
 - Putting It All Together
 - Quick Summary
 
-Let's get started: [What is DeepSeek-V4 and How Does It Work? Architecture Explained](https://outcomeschool.com/blog/decoding-deepseek-v4)
+Let's get started: [What is DeepSeek-V4 and How Does It Work? Architecture Explained](lessons/decoding-deepseek-v4.md)
 
 ---
 
@@ -2078,11 +2080,11 @@ By the end of this module, we will know which type of model to pick for a given 
 
 **Lessons in this module:**
 
-1. [What are Small Language Models (SLMs) and When Should We Use Them?](https://outcomeschool.com/blog/small-language-models-slms)
-2. [What are Large Reasoning Models (LRMs) and How Are They Different from LLMs?](https://outcomeschool.com/blog/large-reasoning-models)
-3. [What are Recursive Language Models (RLMs) and How Do They Work?](https://outcomeschool.com/blog/recursive-language-models)
-4. [How do Diffusion Language Models (DLMs) work?](https://outcomeschool.com/blog/how-do-diffusion-language-models-dlms-work)
-5. [Jev and System One Models Explained](https://outcomeschool.com/blog/jev-and-system-one-models-explained)
+1. [What are Small Language Models (SLMs) and When Should We Use Them?](lessons/small-language-models-slms.md)
+2. [What are Large Reasoning Models (LRMs) and How Are They Different from LLMs?](lessons/large-reasoning-models.md)
+3. [What are Recursive Language Models (RLMs) and How Do They Work?](lessons/recursive-language-models.md)
+4. [How do Diffusion Language Models (DLMs) work?](lessons/how-do-diffusion-language-models-dlms-work.md)
+5. [Jev and System One Models Explained](lessons/jev-and-system-one-models-explained.md)
 
 ---
 
@@ -2105,7 +2107,7 @@ We will cover the following:
 - When to Pick an SLM
 - Quick Summary
 
-Let's get started: [What are Small Language Models (SLMs) and When Should We Use Them?](https://outcomeschool.com/blog/small-language-models-slms)
+Let's get started: [What are Small Language Models (SLMs) and When Should We Use Them?](lessons/small-language-models-slms.md)
 
 ### 6.2 What are Large Reasoning Models (LRMs) and How Are They Different from LLMs?
 
@@ -2125,7 +2127,7 @@ We will cover the following:
 - Common Mistakes when using LRMs
 - Quick Summary
 
-Let's get started: [What are Large Reasoning Models (LRMs) and How Are They Different from LLMs?](https://outcomeschool.com/blog/large-reasoning-models)
+Let's get started: [What are Large Reasoning Models (LRMs) and How Are They Different from LLMs?](lessons/large-reasoning-models.md)
 
 ### 6.3 What are Recursive Language Models (RLMs) and How Do They Work?
 
@@ -2146,7 +2148,7 @@ We will cover the following:
 - RLM vs RAG
 - A real use case
 
-Let's get started: [What are Recursive Language Models (RLMs) and How Do They Work?](https://outcomeschool.com/blog/recursive-language-models)
+Let's get started: [What are Recursive Language Models (RLMs) and How Do They Work?](lessons/recursive-language-models.md)
 
 ### 6.4 How do Diffusion Language Models (DLMs) work?
 
@@ -2168,7 +2170,7 @@ We will cover the following:
 - Limitations of DLMs
 - The current state
 
-Let's get started: [How do Diffusion Language Models (DLMs) work?](https://outcomeschool.com/blog/how-do-diffusion-language-models-dlms-work)
+Let's get started: [How do Diffusion Language Models (DLMs) work?](lessons/how-do-diffusion-language-models-dlms-work.md)
 
 ### 6.5 Jev and System One Models Explained
 
@@ -2188,7 +2190,7 @@ We will cover the following:
 - Where Jev Works Well and Where It Fails
 - When to Use Which One
 
-Let's get started: [Jev and System One Models Explained](https://outcomeschool.com/blog/jev-and-system-one-models-explained)
+Let's get started: [Jev and System One Models Explained](lessons/jev-and-system-one-models-explained.md)
 
 ---
 
@@ -2200,24 +2202,24 @@ By the end of this module, we will know when to fine-tune, how LoRA makes it che
 
 **Lessons in this module:**
 
-1. [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
-2. [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
-3. [How does fine-tuning work?](https://outcomeschool.com/blog/how-does-fine-tuning-work)
-4. [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
-5. [What is LoRA (Low-Rank Adaptation) and How Does It Fine-Tune LLMs?](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
-6. [How does Prefix Tuning work?](https://outcomeschool.com/blog/how-does-prefix-tuning-work)
-7. [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
-8. [What is Continual Learning in LLMs? Solving Catastrophic Forgetting](https://outcomeschool.com/blog/continual-learning-in-llms)
-9. [What is Deep RL from Human Preferences? The Paper That Started RLHF](https://outcomeschool.com/blog/decoding-deep-rl-from-human-preferences)
-10. [What is InstructGPT? How GPT-3 Learned to Follow Instructions](https://outcomeschool.com/blog/decoding-instructgpt)
-11. [What is RLHF? Reinforcement Learning from Human Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
-12. [What is a Reward Model and How Is It Trained?](https://outcomeschool.com/blog/reward-model)
-13. [What is Proximal Policy Optimization (PPO) and How Does It Work?](https://outcomeschool.com/blog/proximal-policy-optimization-ppo)
-14. [What is Direct Preference Optimization (DPO) and How Does It Work?](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
-15. [What is Group Relative Policy Optimization (GRPO) and How Does It Work?](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
-16. [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
-17. [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
-18. [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
+1. [How does Pretraining work?](lessons/llm-pretraining.md)
+2. [What are the Chinchilla scaling laws?](lessons/chinchilla-scaling-laws.md)
+3. [How does fine-tuning work?](lessons/how-does-fine-tuning-work.md)
+4. [How does Instruction Tuning work?](lessons/instruction-tuning.md)
+5. [What is LoRA (Low-Rank Adaptation) and How Does It Fine-Tune LLMs?](lessons/lora-low-rank-adaptation-of-llms.md)
+6. [How does Prefix Tuning work?](lessons/how-does-prefix-tuning-work.md)
+7. [How does Knowledge Distillation work?](lessons/how-does-knowledge-distillation-work.md)
+8. [What is Continual Learning in LLMs? Solving Catastrophic Forgetting](lessons/continual-learning-in-llms.md)
+9. [What is Deep RL from Human Preferences? The Paper That Started RLHF](lessons/decoding-deep-rl-from-human-preferences.md)
+10. [What is InstructGPT? How GPT-3 Learned to Follow Instructions](lessons/decoding-instructgpt.md)
+11. [What is RLHF? Reinforcement Learning from Human Feedback Explained](lessons/reinforcement-learning-from-human-feedback-rlhf.md)
+12. [What is a Reward Model and How Is It Trained?](lessons/reward-model.md)
+13. [What is Proximal Policy Optimization (PPO) and How Does It Work?](lessons/proximal-policy-optimization-ppo.md)
+14. [What is Direct Preference Optimization (DPO) and How Does It Work?](lessons/direct-preference-optimization-dpo.md)
+15. [What is Group Relative Policy Optimization (GRPO) and How Does It Work?](lessons/group-relative-policy-optimization-grpo.md)
+16. [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](lessons/reward-hacking.md)
+17. [What is RLAIF? Reinforcement Learning from AI Feedback Explained](lessons/reinforcement-learning-from-ai-feedback-rlaif.md)
+18. [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](lessons/reinforcement-learning-with-verifiable-rewards-rlvr.md)
 
 ---
 
@@ -2241,7 +2243,7 @@ We will cover the following:
 - What comes after pretraining?
 - Pretraining vs Fine-tuning
 
-Let's get started: [How does Pretraining work?](https://outcomeschool.com/blog/llm-pretraining)
+Let's get started: [How does Pretraining work?](lessons/llm-pretraining.md)
 
 ### 7.2 What are the Chinchilla scaling laws?
 
@@ -2263,7 +2265,7 @@ We will cover the following:
 - What changed after Chinchilla?
 - Limitations of the Chinchilla scaling laws
 
-Let's get started: [What are the Chinchilla scaling laws?](https://outcomeschool.com/blog/chinchilla-scaling-laws)
+Let's get started: [What are the Chinchilla scaling laws?](lessons/chinchilla-scaling-laws.md)
 
 ### 7.3 How does fine-tuning work?
 
@@ -2280,7 +2282,7 @@ We will cover the following:
 - Tips before we Fine-tune
 - Summary
 
-Let's get started: [How does fine-tuning work?](https://outcomeschool.com/blog/how-does-fine-tuning-work)
+Let's get started: [How does fine-tuning work?](lessons/how-does-fine-tuning-work.md)
 
 ### 7.4 How does Instruction Tuning work?
 
@@ -2303,7 +2305,7 @@ We will cover the following:
 - Where instruction tuning fits in the full pipeline
 - Limitations of instruction tuning
 
-Let's get started: [How does Instruction Tuning work?](https://outcomeschool.com/blog/instruction-tuning)
+Let's get started: [How does Instruction Tuning work?](lessons/instruction-tuning.md)
 
 ### 7.5 What is LoRA (Low-Rank Adaptation) and How Does It Fine-Tune LLMs?
 
@@ -2321,7 +2323,7 @@ We will cover the following:
 - Real-World Use Cases
 - Quick Summary
 
-Let's get started: [What is LoRA (Low-Rank Adaptation) and How Does It Fine-Tune LLMs?](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms)
+Let's get started: [What is LoRA (Low-Rank Adaptation) and How Does It Fine-Tune LLMs?](lessons/lora-low-rank-adaptation-of-llms.md)
 
 ### 7.6 How does Prefix Tuning work?
 
@@ -2345,7 +2347,7 @@ We will cover the following:
 - Limitations of Prefix Tuning
 - Where Prefix Tuning is used
 
-Let's get started: [How does Prefix Tuning work?](https://outcomeschool.com/blog/how-does-prefix-tuning-work)
+Let's get started: [How does Prefix Tuning work?](lessons/how-does-prefix-tuning-work.md)
 
 ### 7.7 How does Knowledge Distillation work?
 
@@ -2364,7 +2366,7 @@ We will cover the following:
 - Real examples of Knowledge Distillation
 - Wrapping up Knowledge Distillation
 
-Let's get started: [How does Knowledge Distillation work?](https://outcomeschool.com/blog/how-does-knowledge-distillation-work)
+Let's get started: [How does Knowledge Distillation work?](lessons/how-does-knowledge-distillation-work.md)
 
 ### 7.8 What is Continual Learning in LLMs? Solving Catastrophic Forgetting
 
@@ -2379,7 +2381,7 @@ We will cover the following:
 - Challenges in Continual Learning
 - Real-world use cases
 
-Let's get started: [What is Continual Learning in LLMs? Solving Catastrophic Forgetting](https://outcomeschool.com/blog/continual-learning-in-llms)
+Let's get started: [What is Continual Learning in LLMs? Solving Catastrophic Forgetting](lessons/continual-learning-in-llms.md)
 
 ### 7.9 What is Deep RL from Human Preferences? The Paper That Started RLHF
 
@@ -2401,7 +2403,7 @@ We will cover the following:
 - What this looks like today
 - Quick Summary
 
-Let's get started: [What is Deep RL from Human Preferences? The Paper That Started RLHF](https://outcomeschool.com/blog/decoding-deep-rl-from-human-preferences)
+Let's get started: [What is Deep RL from Human Preferences? The Paper That Started RLHF](lessons/decoding-deep-rl-from-human-preferences.md)
 
 ### 7.10 What is InstructGPT? How GPT-3 Learned to Follow Instructions
 
@@ -2423,7 +2425,7 @@ We will cover the following:
 - What alignment looks like today
 - Quick Summary
 
-Let's get started: [What is InstructGPT? How GPT-3 Learned to Follow Instructions](https://outcomeschool.com/blog/decoding-instructgpt)
+Let's get started: [What is InstructGPT? How GPT-3 Learned to Follow Instructions](lessons/decoding-instructgpt.md)
 
 ### 7.11 What is RLHF? Reinforcement Learning from Human Feedback Explained
 
@@ -2444,7 +2446,7 @@ We will cover the following:
 - Best Practices
 - Quick Summary
 
-Let's get started: [What is RLHF? Reinforcement Learning from Human Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf)
+Let's get started: [What is RLHF? Reinforcement Learning from Human Feedback Explained](lessons/reinforcement-learning-from-human-feedback-rlhf.md)
 
 ### 7.12 What is a Reward Model and How Is It Trained?
 
@@ -2461,7 +2463,7 @@ We will cover the following:
 - How is a Reward Model used?
 - Limitations of a Reward Model
 
-Let's get started: [What is a Reward Model and How Is It Trained?](https://outcomeschool.com/blog/reward-model)
+Let's get started: [What is a Reward Model and How Is It Trained?](lessons/reward-model.md)
 
 ### 7.13 What is Proximal Policy Optimization (PPO) and How Does It Work?
 
@@ -2480,7 +2482,7 @@ We will cover the following:
 - Advantages of PPO.
 - Disadvantages of PPO.
 
-Let's get started: [What is Proximal Policy Optimization (PPO) and How Does It Work?](https://outcomeschool.com/blog/proximal-policy-optimization-ppo)
+Let's get started: [What is Proximal Policy Optimization (PPO) and How Does It Work?](lessons/proximal-policy-optimization-ppo.md)
 
 ### 7.14 What is Direct Preference Optimization (DPO) and How Does It Work?
 
@@ -2499,7 +2501,7 @@ We will cover the following:
 - Advantages of DPO.
 - Disadvantages of DPO.
 
-Let's get started: [What is Direct Preference Optimization (DPO) and How Does It Work?](https://outcomeschool.com/blog/direct-preference-optimization-dpo)
+Let's get started: [What is Direct Preference Optimization (DPO) and How Does It Work?](lessons/direct-preference-optimization-dpo.md)
 
 ### 7.15 What is Group Relative Policy Optimization (GRPO) and How Does It Work?
 
@@ -2518,7 +2520,7 @@ We will cover the following:
 - When to use GRPO.
 - Conclusion.
 
-Let's get started: [What is Group Relative Policy Optimization (GRPO) and How Does It Work?](https://outcomeschool.com/blog/group-relative-policy-optimization-grpo)
+Let's get started: [What is Group Relative Policy Optimization (GRPO) and How Does It Work?](lessons/group-relative-policy-optimization-grpo.md)
 
 ### 7.16 What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?
 
@@ -2533,7 +2535,7 @@ We will cover the following:
 - Why does Reward Hacking Happen?
 - How do We Prevent Reward Hacking?
 
-Let's get started: [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](https://outcomeschool.com/blog/reward-hacking)
+Let's get started: [What is Reward Hacking in Reinforcement Learning and How Do We Prevent It?](lessons/reward-hacking.md)
 
 ### 7.17 What is RLAIF? Reinforcement Learning from AI Feedback Explained
 
@@ -2553,7 +2555,7 @@ We will cover the following:
 - Disadvantages of RLAIF
 - RLHF vs RLAIF
 
-Let's get started: [What is RLAIF? Reinforcement Learning from AI Feedback Explained](https://outcomeschool.com/blog/reinforcement-learning-from-ai-feedback-rlaif)
+Let's get started: [What is RLAIF? Reinforcement Learning from AI Feedback Explained](lessons/reinforcement-learning-from-ai-feedback-rlaif.md)
 
 ### 7.18 What is Reinforcement Learning with Verifiable Rewards (RLVR)?
 
@@ -2570,7 +2572,7 @@ We will cover the following:
 - Limits of RLVR
 - RLHF vs RLVR
 
-Let's get started: [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](https://outcomeschool.com/blog/reinforcement-learning-with-verifiable-rewards-rlvr)
+Let's get started: [What is Reinforcement Learning with Verifiable Rewards (RLVR)?](lessons/reinforcement-learning-with-verifiable-rewards-rlvr.md)
 
 > **Note:** We have now learned how LLMs are trained, fine-tuned, and aligned. If you want to learn these in a more practical and in-depth way with me in live classes, check out our **paid** live program: [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) at Outcome School.
 
@@ -2584,15 +2586,15 @@ By the end of this module, we will be able to design prompts and contexts that m
 
 **Lessons in this module:**
 
-1. [How does Prompt Engineering work?](https://outcomeschool.com/blog/prompt-engineering)
-2. [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
-3. [How does Chain-of-Thought (CoT) Prompting work?](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work)
-4. [How does Tree of Thoughts work?](https://outcomeschool.com/blog/how-does-tree-of-thoughts-work)
-5. [How does Prompt Chaining work?](https://outcomeschool.com/blog/how-does-prompt-chaining-work)
-6. [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work)
-7. [What is Context Engineering?](https://outcomeschool.com/blog/context-engineering)
-8. [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work)
-9. [How does the System Prompt work?](https://outcomeschool.com/blog/system-prompt)
+1. [How does Prompt Engineering work?](lessons/prompt-engineering.md)
+2. [How does In-Context Learning work?](lessons/in-context-learning.md)
+3. [How does Chain-of-Thought (CoT) Prompting work?](lessons/how-does-chain-of-thought-prompting-work.md)
+4. [How does Tree of Thoughts work?](lessons/how-does-tree-of-thoughts-work.md)
+5. [How does Prompt Chaining work?](lessons/how-does-prompt-chaining-work.md)
+6. [How does Prompt Caching work?](lessons/how-does-prompt-caching-work.md)
+7. [What is Context Engineering?](lessons/context-engineering.md)
+8. [How does context compaction work?](lessons/how-does-context-compaction-work.md)
+9. [How does the System Prompt work?](lessons/system-prompt.md)
 
 ---
 
@@ -2613,7 +2615,7 @@ We will cover the following:
 - A step-by-step example
 - Best practices for Prompt Engineering
 
-Let's get started: [How does Prompt Engineering work?](https://outcomeschool.com/blog/prompt-engineering)
+Let's get started: [How does Prompt Engineering work?](lessons/prompt-engineering.md)
 
 ### 8.2 How does In-Context Learning work?
 
@@ -2630,7 +2632,7 @@ We will cover the following:
 - In-Context Learning vs Fine-tuning
 - Best practices for In-Context Learning
 
-Let's get started: [How does In-Context Learning work?](https://outcomeschool.com/blog/in-context-learning)
+Let's get started: [How does In-Context Learning work?](lessons/in-context-learning.md)
 
 ### 8.3 How does Chain-of-Thought (CoT) Prompting work?
 
@@ -2649,7 +2651,7 @@ We will cover the following:
 - Where Chain-of-Thought Prompting is useful
 - Things to keep in mind
 
-Let's get started: [How does Chain-of-Thought (CoT) Prompting work?](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work)
+Let's get started: [How does Chain-of-Thought (CoT) Prompting work?](lessons/how-does-chain-of-thought-prompting-work.md)
 
 ### 8.4 How does Tree of Thoughts work?
 
@@ -2671,7 +2673,7 @@ We will cover the following:
 - Chain of Thought vs Tree of Thoughts
 - Where Tree of Thoughts works well and where it fails
 
-Let's get started: [How does Tree of Thoughts work?](https://outcomeschool.com/blog/how-does-tree-of-thoughts-work)
+Let's get started: [How does Tree of Thoughts work?](lessons/how-does-tree-of-thoughts-work.md)
 
 ### 8.5 How does Prompt Chaining work?
 
@@ -2690,7 +2692,7 @@ We will cover the following:
 - Things to take care of while using Prompt Chaining
 - When to use Prompt Chaining
 
-Let's get started: [How does Prompt Chaining work?](https://outcomeschool.com/blog/how-does-prompt-chaining-work)
+Let's get started: [How does Prompt Chaining work?](lessons/how-does-prompt-chaining-work.md)
 
 ### 8.6 How does Prompt Caching work?
 
@@ -2709,7 +2711,7 @@ We will cover the following:
 - The benefits of Prompt Caching
 - Prompt Caching in the real world
 
-Let's get started: [How does Prompt Caching work?](https://outcomeschool.com/blog/how-does-prompt-caching-work)
+Let's get started: [How does Prompt Caching work?](lessons/how-does-prompt-caching-work.md)
 
 ### 8.7 What is Context Engineering?
 
@@ -2727,7 +2729,7 @@ We will cover the following:
 - Best practices
 - Quick Summary
 
-Let's get started: [What is Context Engineering?](https://outcomeschool.com/blog/context-engineering)
+Let's get started: [What is Context Engineering?](lessons/context-engineering.md)
 
 ### 8.8 How does context compaction work?
 
@@ -2747,7 +2749,7 @@ We will cover the following:
 - Compaction in real AI agents
 - Why context compaction is important
 
-Let's get started: [How does context compaction work?](https://outcomeschool.com/blog/how-does-context-compaction-work)
+Let's get started: [How does context compaction work?](lessons/how-does-context-compaction-work.md)
 
 ### 8.9 How does the System Prompt work?
 
@@ -2766,7 +2768,7 @@ We will cover the following:
 - Limitations of the System Prompt
 - System Prompt vs User Prompt
 
-Let's get started: [How does the System Prompt work?](https://outcomeschool.com/blog/system-prompt)
+Let's get started: [How does the System Prompt work?](lessons/system-prompt.md)
 
 ---
 
@@ -2778,26 +2780,26 @@ By the end of this module, we will be able to build a production-grade RAG pipel
 
 **Lessons in this module:**
 
-1. [How does an embedding model work?](https://outcomeschool.com/blog/embedding-model)
-2. [How does Cosine Similarity work?](https://outcomeschool.com/blog/cosine-similarity)
-3. [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work)
-4. [How does Approximate Nearest Neighbor (ANN) search work?](https://outcomeschool.com/blog/how-does-approximate-nearest-neighbor-ann-search-work)
-5. [How does Semantic Search work?](https://outcomeschool.com/blog/how-does-semantic-search-work)
-6. [How does an Inverted Index work?](https://outcomeschool.com/blog/inverted-index)
-7. [How does BM25 work?](https://outcomeschool.com/blog/bm25)
-8. [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
-9. [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
-10. [What is ColBERT? Late Interaction Retrieval Explained](https://outcomeschool.com/blog/decoding-colbert)
-11. [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
-12. [How to Chunk Documents for RAG? Chunking Strategies Explained](https://outcomeschool.com/blog/chunking-strategies-for-rag)
-13. [How does Contextual Retrieval work?](https://outcomeschool.com/blog/how-does-contextual-retrieval-work)
-14. [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work)
-15. [How do Query Rewriting and Multi-Query Retrieval work?](https://outcomeschool.com/blog/how-do-query-rewriting-and-multi-query-retrieval-work)
-16. [How does an Embedding Cache work?](https://outcomeschool.com/blog/how-does-an-embedding-cache-work)
-17. [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
-18. [What is Agentic RAG? How It Works and When to Use It](https://outcomeschool.com/blog/agentic-rag)
-19. [What is GraphRAG? How Knowledge Graphs Improve RAG](https://outcomeschool.com/blog/graphrag)
-20. [What is Vectorless RAG? RAG Without Embeddings or a Vector Database](https://outcomeschool.com/blog/vectorless-rag)
+1. [How does an embedding model work?](lessons/embedding-model.md)
+2. [How does Cosine Similarity work?](lessons/cosine-similarity.md)
+3. [How does a Vector Database work?](lessons/how-does-a-vector-database-work.md)
+4. [How does Approximate Nearest Neighbor (ANN) search work?](lessons/how-does-approximate-nearest-neighbor-ann-search-work.md)
+5. [How does Semantic Search work?](lessons/how-does-semantic-search-work.md)
+6. [How does an Inverted Index work?](lessons/inverted-index.md)
+7. [How does BM25 work?](lessons/bm25.md)
+8. [How does Hybrid Search work?](lessons/how-does-hybrid-search-work.md)
+9. [How does a Reranker work?](lessons/how-does-a-reranker-work.md)
+10. [What is ColBERT? Late Interaction Retrieval Explained](lessons/decoding-colbert.md)
+11. [How does RAG work?](lessons/retrieval-augmented-generation-rag.md)
+12. [How to Chunk Documents for RAG? Chunking Strategies Explained](lessons/chunking-strategies-for-rag.md)
+13. [How does Contextual Retrieval work?](lessons/how-does-contextual-retrieval-work.md)
+14. [How does HyDE work in RAG?](lessons/how-does-hyde-work.md)
+15. [How do Query Rewriting and Multi-Query Retrieval work?](lessons/how-do-query-rewriting-and-multi-query-retrieval-work.md)
+16. [How does an Embedding Cache work?](lessons/how-does-an-embedding-cache-work.md)
+17. [How does Semantic Caching work?](lessons/how-does-semantic-caching-work.md)
+18. [What is Agentic RAG? How It Works and When to Use It](lessons/agentic-rag.md)
+19. [What is GraphRAG? How Knowledge Graphs Improve RAG](lessons/graphrag.md)
+20. [What is Vectorless RAG? RAG Without Embeddings or a Vector Database](lessons/vectorless-rag.md)
 
 ---
 
@@ -2818,7 +2820,7 @@ We will cover the following:
 - Where do we use embedding models?
 - Limitations of embedding models
 
-Let's get started: [How does an embedding model work?](https://outcomeschool.com/blog/embedding-model)
+Let's get started: [How does an embedding model work?](lessons/embedding-model.md)
 
 ### 9.2 How does Cosine Similarity work?
 
@@ -2837,7 +2839,7 @@ We will cover the following:
 - Where Cosine Similarity is used
 - Cosine Similarity vs Euclidean Distance
 
-Let's get started: [How does Cosine Similarity work?](https://outcomeschool.com/blog/cosine-similarity)
+Let's get started: [How does Cosine Similarity work?](lessons/cosine-similarity.md)
 
 ### 9.3 How does a Vector Database work?
 
@@ -2862,7 +2864,7 @@ We will cover the following:
 - A small code example
 - Real-world applications of Vector Databases
 
-Let's get started: [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work)
+Let's get started: [How does a Vector Database work?](lessons/how-does-a-vector-database-work.md)
 
 ### 9.4 How does Approximate Nearest Neighbor (ANN) search work?
 
@@ -2884,7 +2886,7 @@ We will cover the following:
 - Where ANN Search is used
 - Picking the right method
 
-Let's get started: [How does Approximate Nearest Neighbor (ANN) search work?](https://outcomeschool.com/blog/how-does-approximate-nearest-neighbor-ann-search-work)
+Let's get started: [How does Approximate Nearest Neighbor (ANN) search work?](lessons/how-does-approximate-nearest-neighbor-ann-search-work.md)
 
 ### 9.5 How does Semantic Search work?
 
@@ -2903,7 +2905,7 @@ We will cover the following:
 - Approximate nearest neighbor for speed at scale
 - Semantic Search in the real world
 
-Let's get started: [How does Semantic Search work?](https://outcomeschool.com/blog/how-does-semantic-search-work)
+Let's get started: [How does Semantic Search work?](lessons/how-does-semantic-search-work.md)
 
 ### 9.6 How does an Inverted Index work?
 
@@ -2922,7 +2924,7 @@ We will cover the following:
 - Why the inverted index is so fast
 - Real-world use of the inverted index
 
-Let's get started: [How does an Inverted Index work?](https://outcomeschool.com/blog/inverted-index)
+Let's get started: [How does an Inverted Index work?](lessons/inverted-index.md)
 
 ### 9.7 How does BM25 work?
 
@@ -2943,7 +2945,7 @@ We will cover the following:
 - TF-IDF vs BM25
 - Where BM25 works well and where it fails
 
-Let's get started: [How does BM25 work?](https://outcomeschool.com/blog/bm25)
+Let's get started: [How does BM25 work?](lessons/bm25.md)
 
 ### 9.8 How does Hybrid Search work?
 
@@ -2962,7 +2964,7 @@ We will cover the following:
 - Weighted score combination and normalization
 - Hybrid Search in the real world
 
-Let's get started: [How does Hybrid Search work?](https://outcomeschool.com/blog/how-does-hybrid-search-work)
+Let's get started: [How does Hybrid Search work?](lessons/how-does-hybrid-search-work.md)
 
 ### 9.9 How does a Reranker work?
 
@@ -2981,7 +2983,7 @@ We will cover the following:
 - Real examples of Rerankers
 - Why Rerankers matter for RAG
 
-Let's get started: [How does a Reranker work?](https://outcomeschool.com/blog/how-does-a-reranker-work)
+Let's get started: [How does a Reranker work?](lessons/how-does-a-reranker-work.md)
 
 ### 9.10 What is ColBERT? Late Interaction Retrieval Explained
 
@@ -3006,7 +3008,7 @@ We will cover the following:
 - Where ColBERT led
 - Quick Summary
 
-Let's get started: [What is ColBERT? Late Interaction Retrieval Explained](https://outcomeschool.com/blog/decoding-colbert)
+Let's get started: [What is ColBERT? Late Interaction Retrieval Explained](lessons/decoding-colbert.md)
 
 ### 9.11 How does RAG work?
 
@@ -3024,7 +3026,7 @@ We will cover the following:
 - A complete walkthrough
 - Why RAG works so well
 
-Let's get started: [How does RAG work?](https://outcomeschool.com/blog/retrieval-augmented-generation-rag)
+Let's get started: [How does RAG work?](lessons/retrieval-augmented-generation-rag.md)
 
 ### 9.12 How to Chunk Documents for RAG? Chunking Strategies Explained
 
@@ -3051,7 +3053,7 @@ We will cover the following:
 - Common mistakes
 - Conclusion
 
-Let's get started: [How to Chunk Documents for RAG? Chunking Strategies Explained](https://outcomeschool.com/blog/chunking-strategies-for-rag)
+Let's get started: [How to Chunk Documents for RAG? Chunking Strategies Explained](lessons/chunking-strategies-for-rag.md)
 
 ### 9.13 How does Contextual Retrieval work?
 
@@ -3072,7 +3074,7 @@ We will cover the following:
 - A simple code example
 - When to use it and when not to use it
 
-Let's get started: [How does Contextual Retrieval work?](https://outcomeschool.com/blog/how-does-contextual-retrieval-work)
+Let's get started: [How does Contextual Retrieval work?](lessons/how-does-contextual-retrieval-work.md)
 
 ### 9.14 How does HyDE work in RAG?
 
@@ -3093,7 +3095,7 @@ We will cover the following:
 - When to use HyDE
 - Summary
 
-Let's get started: [How does HyDE work in RAG?](https://outcomeschool.com/blog/how-does-hyde-work)
+Let's get started: [How does HyDE work in RAG?](lessons/how-does-hyde-work.md)
 
 ### 9.15 How do Query Rewriting and Multi-Query Retrieval work?
 
@@ -3114,7 +3116,7 @@ We will cover the following:
 - Query Rewriting vs Multi-Query Retrieval
 - Where they work well and where they fail
 
-Let's get started: [How do Query Rewriting and Multi-Query Retrieval work?](https://outcomeschool.com/blog/how-do-query-rewriting-and-multi-query-retrieval-work)
+Let's get started: [How do Query Rewriting and Multi-Query Retrieval work?](lessons/how-do-query-rewriting-and-multi-query-retrieval-work.md)
 
 ### 9.16 How does an Embedding Cache work?
 
@@ -3134,7 +3136,7 @@ We will cover the following:
 - The benefits of an Embedding Cache
 - An Embedding Cache in the real world
 
-Let's get started: [How does an Embedding Cache work?](https://outcomeschool.com/blog/how-does-an-embedding-cache-work)
+Let's get started: [How does an Embedding Cache work?](lessons/how-does-an-embedding-cache-work.md)
 
 ### 9.17 How does Semantic Caching work?
 
@@ -3153,7 +3155,7 @@ We will cover the following:
 - Advantages of Semantic Caching
 - Things to keep in mind
 
-Let's get started: [How does Semantic Caching work?](https://outcomeschool.com/blog/how-does-semantic-caching-work)
+Let's get started: [How does Semantic Caching work?](lessons/how-does-semantic-caching-work.md)
 
 ### 9.18 What is Agentic RAG? How It Works and When to Use It
 
@@ -3175,13 +3177,13 @@ We will cover the following:
 - Limitations of Agentic RAG
 - Quick Summary
 
-Let's get started: [What is Agentic RAG? How It Works and When to Use It](https://outcomeschool.com/blog/agentic-rag)
+Let's get started: [What is Agentic RAG? How It Works and When to Use It](lessons/agentic-rag.md)
 
 Watch the video: [Agentic RAG Explained](https://www.youtube.com/watch?v=6nSegpuWJVw)
 
 ### 9.19 What is GraphRAG? How Knowledge Graphs Improve RAG
 
-In this blog, we will learn about GraphRAG and how it improves retrieval by using a knowledge graph along with [vector search](https://outcomeschool.com/blog/how-does-a-vector-database-work).
+In this blog, we will learn about GraphRAG and how it improves retrieval by using a knowledge graph along with [vector search](lessons/how-does-a-vector-database-work.md).
 
 We will cover the following:
 
@@ -3195,7 +3197,7 @@ We will cover the following:
 - Trade-offs of GraphRAG
 - Quick Summary
 
-Let's get started: [What is GraphRAG? How Knowledge Graphs Improve RAG](https://outcomeschool.com/blog/graphrag)
+Let's get started: [What is GraphRAG? How Knowledge Graphs Improve RAG](lessons/graphrag.md)
 
 ### 9.20 What is Vectorless RAG? RAG Without Embeddings or a Vector Database
 
@@ -3216,7 +3218,7 @@ We will cover the following:
 - Vector RAG vs Vectorless RAG
 - When to use which one
 
-Let's get started: [What is Vectorless RAG? RAG Without Embeddings or a Vector Database](https://outcomeschool.com/blog/vectorless-rag)
+Let's get started: [What is Vectorless RAG? RAG Without Embeddings or a Vector Database](lessons/vectorless-rag.md)
 
 **Videos and more resources for Module 9:**
 
@@ -3235,25 +3237,25 @@ By the end of this module, we will be able to design a single agent, give it too
 
 **Lessons in this module:**
 
-1. [What is an AI Agent? How It Works](https://outcomeschool.com/blog/ai-agent)
-2. [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
-3. [What is an AI Agent Loop?](https://outcomeschool.com/blog/ai-agent-loop)
-4. [What is a ReAct Agent? How It Thinks and Acts, Explained](https://outcomeschool.com/blog/react-agent)
-5. [What is a Plan-and-Execute Agent and How Does It Work?](https://outcomeschool.com/blog/plan-and-execute-agent)
-6. [What is a Reflection Agent? How It Generates, Critiques, and Revises](https://outcomeschool.com/blog/reflection-agent)
-7. [How Does AI Agent Memory Work? The Memory Stack Explained](https://outcomeschool.com/blog/ai-agent-memory)
-8. [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
-9. [What is MCP (Model Context Protocol)?](https://outcomeschool.com/blog/what-is-mcp-model-context-protocol)
-10. [What are Agent Skills?](https://outcomeschool.com/blog/what-are-agent-skills)
-11. [What is OKF (Open Knowledge Format)?](https://outcomeschool.com/blog/what-is-okf-open-knowledge-format)
-12. [What are Multi-Agent Systems and When Should We Use Them?](https://outcomeschool.com/blog/multi-agent-systems)
-13. [What are AI SubAgents? Why We Need Them and How They Work](https://outcomeschool.com/blog/ai-subagents)
-14. [How AI Agents Communicate](https://outcomeschool.com/blog/how-ai-agents-communicate)
-15. [What is AI Orchestration? How It Works and the Common Patterns](https://outcomeschool.com/blog/ai-orchestration)
-16. [What is Sakana Fugu? The Technical Report Explained](https://outcomeschool.com/blog/decoding-sakana-fugu)
-17. [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
-18. [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
-19. [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
+1. [What is an AI Agent? How It Works](lessons/ai-agent.md)
+2. [How does Function Calling work in LLMs?](lessons/how-does-function-calling-work-in-llms.md)
+3. [What is an AI Agent Loop?](lessons/ai-agent-loop.md)
+4. [What is a ReAct Agent? How It Thinks and Acts, Explained](lessons/react-agent.md)
+5. [What is a Plan-and-Execute Agent and How Does It Work?](lessons/plan-and-execute-agent.md)
+6. [What is a Reflection Agent? How It Generates, Critiques, and Revises](lessons/reflection-agent.md)
+7. [How Does AI Agent Memory Work? The Memory Stack Explained](lessons/ai-agent-memory.md)
+8. [How does ChatGPT remember you?](lessons/how-does-chatgpt-remember-you.md)
+9. [What is MCP (Model Context Protocol)?](lessons/what-is-mcp-model-context-protocol.md)
+10. [What are Agent Skills?](lessons/what-are-agent-skills.md)
+11. [What is OKF (Open Knowledge Format)?](lessons/what-is-okf-open-knowledge-format.md)
+12. [What are Multi-Agent Systems and When Should We Use Them?](lessons/multi-agent-systems.md)
+13. [What are AI SubAgents? Why We Need Them and How They Work](lessons/ai-subagents.md)
+14. [How AI Agents Communicate](lessons/how-ai-agents-communicate.md)
+15. [What is AI Orchestration? How It Works and the Common Patterns](lessons/ai-orchestration.md)
+16. [What is Sakana Fugu? The Technical Report Explained](lessons/decoding-sakana-fugu.md)
+17. [How do Computer-Use Agents work?](lessons/how-do-computer-use-agents-work.md)
+18. [How do Browser Agents work?](lessons/how-do-browser-agents-work.md)
+19. [How do Human-in-the-Loop agents work?](lessons/human-in-the-loop-agents.md)
 
 ---
 
@@ -3275,7 +3277,7 @@ We will cover the following:
 - Common Failure Modes
 - Quick Summary
 
-Let's get started: [What is an AI Agent? How It Works](https://outcomeschool.com/blog/ai-agent)
+Let's get started: [What is an AI Agent? How It Works](lessons/ai-agent.md)
 
 Watch the video: [AI Engineering Explained: LLM, RAG, MCP, Agent, Fine-Tuning, Quantization](https://www.youtube.com/watch?v=lnfWvX66FUk)
 
@@ -3296,7 +3298,7 @@ We will cover the following:
 - Real-World Use: The Backbone of AI Agents
 - Quick Summary
 
-Let's get started: [How does Function Calling work in LLMs?](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms)
+Let's get started: [How does Function Calling work in LLMs?](lessons/how-does-function-calling-work-in-llms.md)
 
 ### 10.3 What is an AI Agent Loop?
 
@@ -3315,7 +3317,7 @@ We will cover the following:
 - Common Loop Failures
 - Quick Summary
 
-Let's get started: [What is an AI Agent Loop?](https://outcomeschool.com/blog/ai-agent-loop)
+Let's get started: [What is an AI Agent Loop?](lessons/ai-agent-loop.md)
 
 ### 10.4 What is a ReAct Agent? How It Thinks and Acts, Explained
 
@@ -3333,7 +3335,7 @@ We will cover the following:
 - Common Failure Modes and How to Fix Them
 - Quick Summary
 
-Let's get started: [What is a ReAct Agent? How It Thinks and Acts, Explained](https://outcomeschool.com/blog/react-agent)
+Let's get started: [What is a ReAct Agent? How It Thinks and Acts, Explained](lessons/react-agent.md)
 
 ### 10.5 What is a Plan-and-Execute Agent and How Does It Work?
 
@@ -3350,7 +3352,7 @@ We will cover the following:
 - Common Failure Modes and How to Fix Them
 - Quick Summary
 
-Let's get started: [What is a Plan-and-Execute Agent and How Does It Work?](https://outcomeschool.com/blog/plan-and-execute-agent)
+Let's get started: [What is a Plan-and-Execute Agent and How Does It Work?](lessons/plan-and-execute-agent.md)
 
 ### 10.6 What is a Reflection Agent? How It Generates, Critiques, and Revises
 
@@ -3367,7 +3369,7 @@ We will cover the following:
 - Common Failure Modes and How to Fix Them
 - Quick Summary
 
-Let's get started: [What is a Reflection Agent? How It Generates, Critiques, and Revises](https://outcomeschool.com/blog/reflection-agent)
+Let's get started: [What is a Reflection Agent? How It Generates, Critiques, and Revises](lessons/reflection-agent.md)
 
 ### 10.7 How Does AI Agent Memory Work? The Memory Stack Explained
 
@@ -3384,7 +3386,7 @@ We will cover the following:
 - Common Mistakes and How to Fix Them
 - Quick Summary
 
-Let's get started: [How Does AI Agent Memory Work? The Memory Stack Explained](https://outcomeschool.com/blog/ai-agent-memory)
+Let's get started: [How Does AI Agent Memory Work? The Memory Stack Explained](lessons/ai-agent-memory.md)
 
 ### 10.8 How does ChatGPT remember you?
 
@@ -3405,7 +3407,7 @@ We will cover the following:
 - Temporary Chat
 - Where memory helps and where it fails
 
-Let's get started: [How does ChatGPT remember you?](https://outcomeschool.com/blog/how-does-chatgpt-remember-you)
+Let's get started: [How does ChatGPT remember you?](lessons/how-does-chatgpt-remember-you.md)
 
 ### 10.9 What is MCP (Model Context Protocol)?
 
@@ -3426,7 +3428,7 @@ We will cover the following:
 - Things we must be careful about
 - Summary
 
-Let's get started: [What is MCP (Model Context Protocol)?](https://outcomeschool.com/blog/what-is-mcp-model-context-protocol)
+Let's get started: [What is MCP (Model Context Protocol)?](lessons/what-is-mcp-model-context-protocol.md)
 
 ### 10.10 What are Agent Skills?
 
@@ -3448,11 +3450,11 @@ We will cover the following:
 - Things we must be careful about
 - Summary
 
-Let's get started: [What are Agent Skills?](https://outcomeschool.com/blog/what-are-agent-skills)
+Let's get started: [What are Agent Skills?](lessons/what-are-agent-skills.md)
 
 ### 10.11 What is OKF (Open Knowledge Format)?
 
-In this blog, we will learn about OKF (Open Knowledge Format). We will also see why the knowledge about our data stays scattered across many places, how OKF writes that knowledge down as a folder of plain markdown files which any AI agent or any tool can read, and where it fits along with [MCP](https://outcomeschool.com/blog/what-is-mcp-model-context-protocol) and [Agent Skills](https://outcomeschool.com/blog/what-are-agent-skills) in the real world.
+In this blog, we will learn about OKF (Open Knowledge Format). We will also see why the knowledge about our data stays scattered across many places, how OKF writes that knowledge down as a folder of plain markdown files which any AI agent or any tool can read, and where it fits along with [MCP](lessons/what-is-mcp-model-context-protocol.md) and [Agent Skills](lessons/what-are-agent-skills.md) in the real world.
 
 We will cover the following:
 
@@ -3468,7 +3470,7 @@ We will cover the following:
 - What ships with OKF today
 - Summary
 
-Let's get started: [What is OKF (Open Knowledge Format)?](https://outcomeschool.com/blog/what-is-okf-open-knowledge-format)
+Let's get started: [What is OKF (Open Knowledge Format)?](lessons/what-is-okf-open-knowledge-format.md)
 
 ### 10.12 What are Multi-Agent Systems and When Should We Use Them?
 
@@ -3487,7 +3489,7 @@ We will cover the following:
 - When to Use a Multi-Agent System
 - Quick Summary
 
-Let's get started: [What are Multi-Agent Systems and When Should We Use Them?](https://outcomeschool.com/blog/multi-agent-systems)
+Let's get started: [What are Multi-Agent Systems and When Should We Use Them?](lessons/multi-agent-systems.md)
 
 ### 10.13 What are AI SubAgents? Why We Need Them and How They Work
 
@@ -3504,7 +3506,7 @@ We will cover the following:
 - Challenges with SubAgents
 - Best practices
 
-Let's get started: [What are AI SubAgents? Why We Need Them and How They Work](https://outcomeschool.com/blog/ai-subagents)
+Let's get started: [What are AI SubAgents? Why We Need Them and How They Work](lessons/ai-subagents.md)
 
 ### 10.14 How AI Agents Communicate
 
@@ -3526,11 +3528,11 @@ We will cover the following:
 - Challenges when agents communicate
 - Best Practices
 
-Let's get started: [How AI Agents Communicate](https://outcomeschool.com/blog/how-ai-agents-communicate)
+Let's get started: [How AI Agents Communicate](lessons/how-ai-agents-communicate.md)
 
 ### 10.15 What is AI Orchestration? How It Works and the Common Patterns
 
-In this blog, we will learn about AI Orchestration. We will understand what it is, why we need it, how it is different from [AI Agents](https://outcomeschool.com/blog/ai-agent), and the common patterns we use to coordinate multiple LLMs, tools, and steps together to build real AI products.
+In this blog, we will learn about AI Orchestration. We will understand what it is, why we need it, how it is different from [AI Agents](lessons/ai-agent.md), and the common patterns we use to coordinate multiple LLMs, tools, and steps together to build real AI products.
 
 We will cover the following:
 
@@ -3549,7 +3551,7 @@ We will cover the following:
 - Challenges in AI Orchestration
 - Best Practices
 
-Let's get started: [What is AI Orchestration? How It Works and the Common Patterns](https://outcomeschool.com/blog/ai-orchestration)
+Let's get started: [What is AI Orchestration? How It Works and the Common Patterns](lessons/ai-orchestration.md)
 
 ### 10.16 What is Sakana Fugu? The Technical Report Explained
 
@@ -3572,7 +3574,7 @@ We will cover the following:
 - The clever strategies Fugu discovered on its own
 - Quick Summary
 
-Let's get started: [What is Sakana Fugu? The Technical Report Explained](https://outcomeschool.com/blog/decoding-sakana-fugu)
+Let's get started: [What is Sakana Fugu? The Technical Report Explained](lessons/decoding-sakana-fugu.md)
 
 ### 10.17 How do Computer-Use Agents work?
 
@@ -3592,7 +3594,7 @@ We will cover the following:
 - Limitations of computer-use agents
 - Conclusion
 
-Let's get started: [How do Computer-Use Agents work?](https://outcomeschool.com/blog/how-do-computer-use-agents-work)
+Let's get started: [How do Computer-Use Agents work?](lessons/how-do-computer-use-agents-work.md)
 
 ### 10.18 How do Browser Agents work?
 
@@ -3613,7 +3615,7 @@ We will cover the following:
 - Problems and how they are handled
 - Where it works well and where it fails
 
-Let's get started: [How do Browser Agents work?](https://outcomeschool.com/blog/how-do-browser-agents-work)
+Let's get started: [How do Browser Agents work?](lessons/how-do-browser-agents-work.md)
 
 ### 10.19 How do Human-in-the-Loop agents work?
 
@@ -3631,7 +3633,7 @@ We will cover the following:
 - Common mistakes
 - Advantages and disadvantages
 
-Let's get started: [How do Human-in-the-Loop agents work?](https://outcomeschool.com/blog/human-in-the-loop-agents)
+Let's get started: [How do Human-in-the-Loop agents work?](lessons/human-in-the-loop-agents.md)
 
 ---
 
@@ -3643,14 +3645,14 @@ By the end of this module, we will know how to engineer the harness, the loop, a
 
 **Lessons in this module:**
 
-1. [What is Harness Engineering?](https://outcomeschool.com/blog/harness-engineering-in-ai)
-2. [What is Loop Engineering?](https://outcomeschool.com/blog/what-is-loop-engineering)
-3. [What is Graph Engineering?](https://outcomeschool.com/blog/what-is-graph-engineering)
-4. [AI Is Only as Good as Our Definition of Done](https://outcomeschool.com/blog/ai-is-only-as-good-as-our-definition-of-done)
-5. [How does LangChain work?](https://outcomeschool.com/blog/how-does-langchain-work)
-6. [How does LangGraph work?](https://outcomeschool.com/blog/how-does-langgraph-work)
-7. [How does Claude Code work?](https://outcomeschool.com/blog/how-does-claude-code-work)
-8. [How does Cursor work?](https://outcomeschool.com/blog/how-does-cursor-work)
+1. [What is Harness Engineering?](lessons/harness-engineering-in-ai.md)
+2. [What is Loop Engineering?](lessons/what-is-loop-engineering.md)
+3. [What is Graph Engineering?](lessons/what-is-graph-engineering.md)
+4. [AI Is Only as Good as Our Definition of Done](lessons/ai-is-only-as-good-as-our-definition-of-done.md)
+5. [How does LangChain work?](lessons/how-does-langchain-work.md)
+6. [How does LangGraph work?](lessons/how-does-langgraph-work.md)
+7. [How does Claude Code work?](lessons/how-does-claude-code-work.md)
+8. [How does Cursor work?](lessons/how-does-cursor-work.md)
 
 ---
 
@@ -3668,7 +3670,7 @@ We will cover the following:
 - Best Practices in Harness Engineering
 - Putting It All Together
 
-Let's get started: [What is Harness Engineering?](https://outcomeschool.com/blog/harness-engineering-in-ai)
+Let's get started: [What is Harness Engineering?](lessons/harness-engineering-in-ai.md)
 
 ### 11.2 What is Loop Engineering?
 
@@ -3688,7 +3690,7 @@ We will cover the following:
 - A complete example
 - Where it works well and where it fails
 
-Let's get started: [What is Loop Engineering?](https://outcomeschool.com/blog/what-is-loop-engineering)
+Let's get started: [What is Loop Engineering?](lessons/what-is-loop-engineering.md)
 
 ### 11.3 What is Graph Engineering?
 
@@ -3714,7 +3716,7 @@ We will cover the following:
 - Best practices in Graph Engineering
 - Conclusion
 
-Let's get started: [What is Graph Engineering?](https://outcomeschool.com/blog/what-is-graph-engineering)
+Let's get started: [What is Graph Engineering?](lessons/what-is-graph-engineering.md)
 
 ### 11.4 AI Is Only as Good as Our Definition of Done
 
@@ -3728,7 +3730,7 @@ We will cover the following:
 - Why AI is so strong exactly where we can measure
 - How to write a better definition of done
 
-Let's get started: [AI Is Only as Good as Our Definition of Done](https://outcomeschool.com/blog/ai-is-only-as-good-as-our-definition-of-done)
+Let's get started: [AI Is Only as Good as Our Definition of Done](lessons/ai-is-only-as-good-as-our-definition-of-done.md)
 
 ### 11.5 How does LangChain work?
 
@@ -3747,7 +3749,7 @@ We will cover the following:
 - Tools and Agents
 - A complete flow of how LangChain works
 
-Let's get started: [How does LangChain work?](https://outcomeschool.com/blog/how-does-langchain-work)
+Let's get started: [How does LangChain work?](lessons/how-does-langchain-work.md)
 
 ### 11.6 How does LangGraph work?
 
@@ -3767,7 +3769,7 @@ We will cover the following:
 - Human-in-the-loop
 - When to use LangGraph
 
-Let's get started: [How does LangGraph work?](https://outcomeschool.com/blog/how-does-langgraph-work)
+Let's get started: [How does LangGraph work?](lessons/how-does-langgraph-work.md)
 
 ### 11.7 How does Claude Code work?
 
@@ -3787,7 +3789,7 @@ We will cover the following:
 - Plan mode, subagents, and hooks
 - Putting it all together
 
-Let's get started: [How does Claude Code work?](https://outcomeschool.com/blog/how-does-claude-code-work)
+Let's get started: [How does Claude Code work?](lessons/how-does-claude-code-work.md)
 
 ### 11.8 How does Cursor work?
 
@@ -3808,7 +3810,7 @@ We will cover the following:
 - How does Cursor keep our code private?
 - The complete flow of Cursor
 
-Let's get started: [How does Cursor work?](https://outcomeschool.com/blog/how-does-cursor-work)
+Let's get started: [How does Cursor work?](lessons/how-does-cursor-work.md)
 
 > **Note:** We have now learned how AI Agents work and how they are built. If you want to learn these in a more practical and in-depth way with me in live classes, check out our **paid** live program: [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) at Outcome School.
 
@@ -3822,25 +3824,25 @@ By the end of this module, we will understand TTFT, TPOT, and throughput, and kn
 
 **Lessons in this module:**
 
-1. [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
-2. [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
-3. [What is Prefill-Decode Disaggregation in LLM Inference?](https://outcomeschool.com/blog/prefill-decode-disaggregation)
-4. [KV Cache in LLMs](https://outcomeschool.com/blog/kv-cache-in-llms)
-5. [What is KV Cache Compression?](https://outcomeschool.com/blog/kv-cache-compression)
-6. [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
-7. [What is Paged Attention in LLMs and How Does It Work?](https://outcomeschool.com/blog/paged-attention-in-llms)
-8. [What is Continuous Batching in LLMs and How Does It Work?](https://outcomeschool.com/blog/continuous-batching-in-llms)
-9. [What is Speculative Decoding and How Does It Make LLMs Faster?](https://outcomeschool.com/blog/speculative-decoding)
-10. [What is N-gram Speculation in LLMs and How Does It Speed Up Generation?](https://outcomeschool.com/blog/n-gram-speculation-in-llms)
-11. [What is Medusa? Multi-Head Speculative Decoding Explained](https://outcomeschool.com/blog/decoding-medusa)
-12. [What is EAGLE? Feature-Level Speculative Decoding Explained](https://outcomeschool.com/blog/decoding-eagle)
-13. [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work)
-14. [How does GGUF work?](https://outcomeschool.com/blog/how-does-gguf-work)
-15. [How does llama.cpp run LLMs on everyday hardware?](https://outcomeschool.com/blog/how-does-llama-cpp-run-llms-on-everyday-hardware)
-16. [How does Ollama work?](https://outcomeschool.com/blog/how-does-ollama-work)
-17. [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work)
-18. [How does SGLang work?](https://outcomeschool.com/blog/how-does-sglang-work)
-19. [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
+1. [LLM Inference Optimization](lessons/llm-inference-optimization.md)
+2. [Prefill vs Decode: LLM Inference Optimization](lessons/prefill-vs-decode-llm-inference-optimization.md)
+3. [What is Prefill-Decode Disaggregation in LLM Inference?](lessons/prefill-decode-disaggregation.md)
+4. [KV Cache in LLMs](lessons/kv-cache-in-llms.md)
+5. [What is KV Cache Compression?](lessons/kv-cache-compression.md)
+6. [How does an LLM use GPU memory?](lessons/llm-gpu-memory.md)
+7. [What is Paged Attention in LLMs and How Does It Work?](lessons/paged-attention-in-llms.md)
+8. [What is Continuous Batching in LLMs and How Does It Work?](lessons/continuous-batching-in-llms.md)
+9. [What is Speculative Decoding and How Does It Make LLMs Faster?](lessons/speculative-decoding.md)
+10. [What is N-gram Speculation in LLMs and How Does It Speed Up Generation?](lessons/n-gram-speculation-in-llms.md)
+11. [What is Medusa? Multi-Head Speculative Decoding Explained](lessons/decoding-medusa.md)
+12. [What is EAGLE? Feature-Level Speculative Decoding Explained](lessons/decoding-eagle.md)
+13. [How does Model Quantization work?](lessons/how-does-model-quantization-work.md)
+14. [How does GGUF work?](lessons/how-does-gguf-work.md)
+15. [How does llama.cpp run LLMs on everyday hardware?](lessons/how-does-llama-cpp-run-llms-on-everyday-hardware.md)
+16. [How does Ollama work?](lessons/how-does-ollama-work.md)
+17. [How does vLLM work?](lessons/how-does-vllm-work.md)
+18. [How does SGLang work?](lessons/how-does-sglang-work.md)
+19. [How does TensorRT-LLM work?](lessons/how-does-tensorrt-llm-work.md)
 
 ---
 
@@ -3862,7 +3864,7 @@ We will cover the following:
 - Comparison of the approaches
 - When to use which one
 
-Let's get started: [LLM Inference Optimization](https://outcomeschool.com/blog/llm-inference-optimization)
+Let's get started: [LLM Inference Optimization](lessons/llm-inference-optimization.md)
 
 Watch the video: [LLM Inference Optimization](https://www.youtube.com/watch?v=jV2sCj4lHYk)
 
@@ -3885,7 +3887,7 @@ We will cover the following:
 - Optimization techniques mapped to each phase
 - Conclusion
 
-Let's get started: [Prefill vs Decode: LLM Inference Optimization](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization)
+Let's get started: [Prefill vs Decode: LLM Inference Optimization](lessons/prefill-vs-decode-llm-inference-optimization.md)
 
 Watch the video: [The First-Token Latency Problem in LLMs](https://www.youtube.com/watch?v=XD8DD4cEHu0)
 
@@ -3909,7 +3911,7 @@ We will cover the following:
 - Where it works well and where it is overkill
 - Co-located vs Disaggregated serving
 
-Let's get started: [What is Prefill-Decode Disaggregation in LLM Inference?](https://outcomeschool.com/blog/prefill-decode-disaggregation)
+Let's get started: [What is Prefill-Decode Disaggregation in LLM Inference?](lessons/prefill-decode-disaggregation.md)
 
 ### 12.4 KV Cache in LLMs
 
@@ -3925,7 +3927,7 @@ We will cover the following:
 - How Much Faster Does It Get
 - The Trade-Off: Speed vs Memory
 
-Let's get started: [KV Cache in LLMs](https://outcomeschool.com/blog/kv-cache-in-llms)
+Let's get started: [KV Cache in LLMs](lessons/kv-cache-in-llms.md)
 
 ### 12.5 What is KV Cache Compression?
 
@@ -3945,7 +3947,7 @@ We will cover the following:
 - Comparison of the approaches
 - When to use which one
 
-Let's get started: [What is KV Cache Compression?](https://outcomeschool.com/blog/kv-cache-compression)
+Let's get started: [What is KV Cache Compression?](lessons/kv-cache-compression.md)
 
 ### 12.6 How does an LLM use GPU memory?
 
@@ -3961,7 +3963,7 @@ We will cover the following:
 - A complete worked-out example
 - How to reduce GPU memory usage
 
-Let's get started: [How does an LLM use GPU memory?](https://outcomeschool.com/blog/llm-gpu-memory)
+Let's get started: [How does an LLM use GPU memory?](lessons/llm-gpu-memory.md)
 
 ### 12.7 What is Paged Attention in LLMs and How Does It Work?
 
@@ -3976,7 +3978,7 @@ We will cover the following:
 - Why Paged Attention Is So Effective
 - Memory Sharing Across Requests
 
-Let's get started: [What is Paged Attention in LLMs and How Does It Work?](https://outcomeschool.com/blog/paged-attention-in-llms)
+Let's get started: [What is Paged Attention in LLMs and How Does It Work?](lessons/paged-attention-in-llms.md)
 
 ### 12.8 What is Continuous Batching in LLMs and How Does It Work?
 
@@ -3998,7 +4000,7 @@ We will cover the following:
 - A Few Important Notes
 - Quick Summary
 
-Let's get started: [What is Continuous Batching in LLMs and How Does It Work?](https://outcomeschool.com/blog/continuous-batching-in-llms)
+Let's get started: [What is Continuous Batching in LLMs and How Does It Work?](lessons/continuous-batching-in-llms.md)
 
 ### 12.9 What is Speculative Decoding and How Does It Make LLMs Faster?
 
@@ -4017,7 +4019,7 @@ We will cover the following:
 - Trade-offs
 - Quick Summary
 
-Let's get started: [What is Speculative Decoding and How Does It Make LLMs Faster?](https://outcomeschool.com/blog/speculative-decoding)
+Let's get started: [What is Speculative Decoding and How Does It Make LLMs Faster?](lessons/speculative-decoding.md)
 
 ### 12.10 What is N-gram Speculation in LLMs and How Does It Speed Up Generation?
 
@@ -4036,7 +4038,7 @@ We will cover the following:
 - Where it works well and where it fails
 - N-gram Speculation vs Draft Model Speculative Decoding
 
-Let's get started: [What is N-gram Speculation in LLMs and How Does It Speed Up Generation?](https://outcomeschool.com/blog/n-gram-speculation-in-llms)
+Let's get started: [What is N-gram Speculation in LLMs and How Does It Speed Up Generation?](lessons/n-gram-speculation-in-llms.md)
 
 ### 12.11 What is Medusa? Multi-Head Speculative Decoding Explained
 
@@ -4055,7 +4057,7 @@ We will cover the following:
 - How Medusa lives on today
 - Quick Summary
 
-Let's get started: [What is Medusa? Multi-Head Speculative Decoding Explained](https://outcomeschool.com/blog/decoding-medusa)
+Let's get started: [What is Medusa? Multi-Head Speculative Decoding Explained](lessons/decoding-medusa.md)
 
 ### 12.12 What is EAGLE? Feature-Level Speculative Decoding Explained
 
@@ -4073,7 +4075,7 @@ We will cover the following:
 - How EAGLE lives on today
 - Quick Summary
 
-Let's get started: [What is EAGLE? Feature-Level Speculative Decoding Explained](https://outcomeschool.com/blog/decoding-eagle)
+Let's get started: [What is EAGLE? Feature-Level Speculative Decoding Explained](lessons/decoding-eagle.md)
 
 ### 12.13 How does Model Quantization work?
 
@@ -4094,7 +4096,7 @@ We will cover the following:
 - The accuracy trade-off and running LLMs locally
 - Wrapping up Model Quantization
 
-Let's get started: [How does Model Quantization work?](https://outcomeschool.com/blog/how-does-model-quantization-work)
+Let's get started: [How does Model Quantization work?](lessons/how-does-model-quantization-work.md)
 
 ### 12.14 How does GGUF work?
 
@@ -4113,7 +4115,7 @@ We will cover the following:
 - Why GGUF is cross-platform and extensible
 - GGUF in the real world
 
-Let's get started: [How does GGUF work?](https://outcomeschool.com/blog/how-does-gguf-work)
+Let's get started: [How does GGUF work?](lessons/how-does-gguf-work.md)
 
 ### 12.15 How does llama.cpp run LLMs on everyday hardware?
 
@@ -4134,7 +4136,7 @@ We will cover the following:
 - The full journey of running a prompt
 - Where llama.cpp is used
 
-Let's get started: [How does llama.cpp run LLMs on everyday hardware?](https://outcomeschool.com/blog/how-does-llama-cpp-run-llms-on-everyday-hardware)
+Let's get started: [How does llama.cpp run LLMs on everyday hardware?](lessons/how-does-llama-cpp-run-llms-on-everyday-hardware.md)
 
 ### 12.16 How does Ollama work?
 
@@ -4154,7 +4156,7 @@ We will cover the following:
 - Using Ollama from code through its API
 - Where it works well and where it fails
 
-Let's get started: [How does Ollama work?](https://outcomeschool.com/blog/how-does-ollama-work)
+Let's get started: [How does Ollama work?](lessons/how-does-ollama-work.md)
 
 ### 12.17 How does vLLM work?
 
@@ -4174,7 +4176,7 @@ We will cover the following:
 - The benefits of vLLM
 - vLLM in the real world
 
-Let's get started: [How does vLLM work?](https://outcomeschool.com/blog/how-does-vllm-work)
+Let's get started: [How does vLLM work?](lessons/how-does-vllm-work.md)
 
 ### 12.18 How does SGLang work?
 
@@ -4195,7 +4197,7 @@ We will cover the following:
 - More powerful features of SGLang
 - How SGLang compares to vLLM
 
-Let's get started: [How does SGLang work?](https://outcomeschool.com/blog/how-does-sglang-work)
+Let's get started: [How does SGLang work?](lessons/how-does-sglang-work.md)
 
 ### 12.19 How does TensorRT-LLM work?
 
@@ -4223,7 +4225,7 @@ We will cover the following:
 - TensorRT-LLM vs vLLM
 - Where it works well and where it fails
 
-Let's get started: [How does TensorRT-LLM work?](https://outcomeschool.com/blog/how-does-tensorrt-llm-work)
+Let's get started: [How does TensorRT-LLM work?](lessons/how-does-tensorrt-llm-work.md)
 
 **Videos and more resources for Module 12:**
 
@@ -4243,11 +4245,11 @@ By the end of this module, we will be able to build an evaluation suite and trac
 
 **Lessons in this module:**
 
-1. [What is LLM Evaluation? Metrics, Benchmarks, and Methods Explained](https://outcomeschool.com/blog/llm-evaluation)
-2. [What is perplexity in a language model?](https://outcomeschool.com/blog/perplexity-in-language-models)
-3. [What is LLM as a Judge? How to Use an LLM to Evaluate LLM Outputs](https://outcomeschool.com/blog/llm-as-a-judge)
-4. [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](https://outcomeschool.com/blog/ai-agent-evaluation)
-5. [What is AI Agent Observability? Traces, Spans, and Metrics Explained](https://outcomeschool.com/blog/ai-agent-observability)
+1. [What is LLM Evaluation? Metrics, Benchmarks, and Methods Explained](lessons/llm-evaluation.md)
+2. [What is perplexity in a language model?](lessons/perplexity-in-language-models.md)
+3. [What is LLM as a Judge? How to Use an LLM to Evaluate LLM Outputs](lessons/llm-as-a-judge.md)
+4. [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](lessons/ai-agent-evaluation.md)
+5. [What is AI Agent Observability? Traces, Spans, and Metrics Explained](lessons/ai-agent-observability.md)
 
 ---
 
@@ -4270,7 +4272,7 @@ We will cover the following:
 - Best Practices
 - When to use which method
 
-Let's get started: [What is LLM Evaluation? Metrics, Benchmarks, and Methods Explained](https://outcomeschool.com/blog/llm-evaluation)
+Let's get started: [What is LLM Evaluation? Metrics, Benchmarks, and Methods Explained](lessons/llm-evaluation.md)
 
 ### 13.2 What is perplexity in a language model?
 
@@ -4287,7 +4289,7 @@ We will cover the following:
 - Low perplexity vs high perplexity
 - Why perplexity is called an intrinsic metric
 
-Let's get started: [What is perplexity in a language model?](https://outcomeschool.com/blog/perplexity-in-language-models)
+Let's get started: [What is perplexity in a language model?](lessons/perplexity-in-language-models.md)
 
 ### 13.3 What is LLM as a Judge? How to Use an LLM to Evaluate LLM Outputs
 
@@ -4306,7 +4308,7 @@ We will cover the following:
 - Best practices for LLM as a Judge.
 - Real-world use cases of LLM as a Judge.
 
-Let's get started: [What is LLM as a Judge? How to Use an LLM to Evaluate LLM Outputs](https://outcomeschool.com/blog/llm-as-a-judge)
+Let's get started: [What is LLM as a Judge? How to Use an LLM to Evaluate LLM Outputs](lessons/llm-as-a-judge.md)
 
 ### 13.4 How to Evaluate AI Agents? Metrics, Methods, and Best Practices
 
@@ -4330,7 +4332,7 @@ We will cover the following:
 - Challenges in AI Agent Evaluation
 - Best Practices
 
-Let's get started: [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](https://outcomeschool.com/blog/ai-agent-evaluation)
+Let's get started: [How to Evaluate AI Agents? Metrics, Methods, and Best Practices](lessons/ai-agent-evaluation.md)
 
 ### 13.5 What is AI Agent Observability? Traces, Spans, and Metrics Explained
 
@@ -4353,7 +4355,7 @@ We will cover the following:
 - Challenges in AI Agent Observability
 - Best Practices
 
-Let's get started: [What is AI Agent Observability? Traces, Spans, and Metrics Explained](https://outcomeschool.com/blog/ai-agent-observability)
+Let's get started: [What is AI Agent Observability? Traces, Spans, and Metrics Explained](lessons/ai-agent-observability.md)
 
 > **Note:** We now know how to evaluate and observe LLMs and AI Agents in production. If you want more practical and in-depth learning on these with me in live classes, check out our **paid** live program: [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) at Outcome School.
 
@@ -4367,10 +4369,10 @@ By the end of this module, we will be able to defend an LLM application against 
 
 **Lessons in this module:**
 
-1. [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
-2. [What is Prompt Injection in LLMs and How Do We Defend Against It?](https://outcomeschool.com/blog/prompt-injection-in-llms)
-3. [What is jailbreaking in LLMs?](https://outcomeschool.com/blog/jailbreaking-in-llms)
-4. [How Does LLM Watermarking Work?](https://outcomeschool.com/blog/how-does-llm-watermarking-work)
+1. [How do LLM guardrails work?](lessons/how-do-llm-guardrails-work.md)
+2. [What is Prompt Injection in LLMs and How Do We Defend Against It?](lessons/prompt-injection-in-llms.md)
+3. [What is jailbreaking in LLMs?](lessons/jailbreaking-in-llms.md)
+4. [How Does LLM Watermarking Work?](lessons/how-does-llm-watermarking-work.md)
 
 ---
 
@@ -4392,7 +4394,7 @@ We will cover the following:
 - Limitations of guardrails
 - Best practices for guardrails
 
-Let's get started: [How do LLM guardrails work?](https://outcomeschool.com/blog/how-do-llm-guardrails-work)
+Let's get started: [How do LLM guardrails work?](lessons/how-do-llm-guardrails-work.md)
 
 ### 14.2 What is Prompt Injection in LLMs and How Do We Defend Against It?
 
@@ -4418,7 +4420,7 @@ We will cover the following:
 - How to test our own application
 - Why this problem is still not solved
 
-Let's get started: [What is Prompt Injection in LLMs and How Do We Defend Against It?](https://outcomeschool.com/blog/prompt-injection-in-llms)
+Let's get started: [What is Prompt Injection in LLMs and How Do We Defend Against It?](lessons/prompt-injection-in-llms.md)
 
 ### 14.3 What is jailbreaking in LLMs?
 
@@ -4436,7 +4438,7 @@ We will cover the following:
 - How do we defend against jailbreaking?
 - A simple example of a safety layer in code
 
-Let's get started: [What is jailbreaking in LLMs?](https://outcomeschool.com/blog/jailbreaking-in-llms)
+Let's get started: [What is jailbreaking in LLMs?](lessons/jailbreaking-in-llms.md)
 
 ### 14.4 How Does LLM Watermarking Work?
 
@@ -4461,7 +4463,7 @@ We will cover the following:
 - Where is LLM watermarking used in the real world?
 - Advantages and disadvantages of LLM watermarking
 
-Let's get started: [How Does LLM Watermarking Work?](https://outcomeschool.com/blog/how-does-llm-watermarking-work)
+Let's get started: [How Does LLM Watermarking Work?](lessons/how-does-llm-watermarking-work.md)
 
 ---
 
@@ -4473,14 +4475,14 @@ By the end of this module, we will know how models see images and how they gener
 
 **Lessons in this module:**
 
-1. [What is Multimodal AI? How It Works and Where It Is Used](https://outcomeschool.com/blog/multimodal-ai)
-2. [What is a Vision Transformer (ViT) and How Does It Work?](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
-3. [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work)
-4. [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
-5. [What are Diffusion Models and How Do They Generate Images?](https://outcomeschool.com/blog/diffusion-models)
-6. [How does flow matching train a generative model?](https://outcomeschool.com/blog/flow-matching)
-7. [What are Generative Adversarial Networks (GANs) and How Do They Work?](https://outcomeschool.com/blog/generative-adversarial-networks)
-8. [What are Variational Autoencoders (VAEs) and How Do They Work?](https://outcomeschool.com/blog/variational-autoencoders)
+1. [What is Multimodal AI? How It Works and Where It Is Used](lessons/multimodal-ai.md)
+2. [What is a Vision Transformer (ViT) and How Does It Work?](lessons/decoding-vision-transformer-vit.md)
+3. [How do Image Embeddings work?](lessons/how-do-image-embeddings-work.md)
+4. [How does a Vision-Language Model (VLM) work?](lessons/vision-language-model-vlm.md)
+5. [What are Diffusion Models and How Do They Generate Images?](lessons/diffusion-models.md)
+6. [How does flow matching train a generative model?](lessons/flow-matching.md)
+7. [What are Generative Adversarial Networks (GANs) and How Do They Work?](lessons/generative-adversarial-networks.md)
+8. [What are Variational Autoencoders (VAEs) and How Do They Work?](lessons/variational-autoencoders.md)
 
 ---
 
@@ -4501,7 +4503,7 @@ We will cover the following:
 - Common Mistakes to Avoid
 - Quick Summary
 
-Let's get started: [What is Multimodal AI? How It Works and Where It Is Used](https://outcomeschool.com/blog/multimodal-ai)
+Let's get started: [What is Multimodal AI? How It Works and Where It Is Used](lessons/multimodal-ai.md)
 
 ### 15.2 What is a Vision Transformer (ViT) and How Does It Work?
 
@@ -4520,7 +4522,7 @@ We will cover the following:
 - ViT vs CNN
 - Quick Summary
 
-Let's get started: [What is a Vision Transformer (ViT) and How Does It Work?](https://outcomeschool.com/blog/decoding-vision-transformer-vit)
+Let's get started: [What is a Vision Transformer (ViT) and How Does It Work?](lessons/decoding-vision-transformer-vit.md)
 
 ### 15.3 How do Image Embeddings work?
 
@@ -4539,7 +4541,7 @@ We will cover the following:
 - Where are image embeddings used?
 - Summary
 
-Let's get started: [How do Image Embeddings work?](https://outcomeschool.com/blog/how-do-image-embeddings-work)
+Let's get started: [How do Image Embeddings work?](lessons/how-do-image-embeddings-work.md)
 
 ### 15.4 How does a Vision-Language Model (VLM) work?
 
@@ -4560,7 +4562,7 @@ We will cover the following:
 - Other ways to connect vision and language
 - Where VLMs work well and where they fail
 
-Let's get started: [How does a Vision-Language Model (VLM) work?](https://outcomeschool.com/blog/vision-language-model-vlm)
+Let's get started: [How does a Vision-Language Model (VLM) work?](lessons/vision-language-model-vlm.md)
 
 ### 15.5 What are Diffusion Models and How Do They Generate Images?
 
@@ -4580,7 +4582,7 @@ We will cover the following:
 - Advantages of Diffusion Models
 - Where Diffusion Models are used
 
-Let's get started: [What are Diffusion Models and How Do They Generate Images?](https://outcomeschool.com/blog/diffusion-models)
+Let's get started: [What are Diffusion Models and How Do They Generate Images?](lessons/diffusion-models.md)
 
 ### 15.6 How does flow matching train a generative model?
 
@@ -4601,7 +4603,7 @@ We will cover the following:
 - Flow matching vs diffusion
 - Where it works well and where it fails
 
-Let's get started: [How does flow matching train a generative model?](https://outcomeschool.com/blog/flow-matching)
+Let's get started: [How does flow matching train a generative model?](lessons/flow-matching.md)
 
 ### 15.7 What are Generative Adversarial Networks (GANs) and How Do They Work?
 
@@ -4620,7 +4622,7 @@ We will cover the following:
 - Types of GANs (DCGAN, Conditional GAN, StyleGAN, CycleGAN)
 - Real-world applications of GANs
 
-Let's get started: [What are Generative Adversarial Networks (GANs) and How Do They Work?](https://outcomeschool.com/blog/generative-adversarial-networks)
+Let's get started: [What are Generative Adversarial Networks (GANs) and How Do They Work?](lessons/generative-adversarial-networks.md)
 
 ### 15.8 What are Variational Autoencoders (VAEs) and How Do They Work?
 
@@ -4639,7 +4641,7 @@ We will cover the following:
 - Advantages of Variational Autoencoders
 - Where Variational Autoencoders are used
 
-Let's get started: [What are Variational Autoencoders (VAEs) and How Do They Work?](https://outcomeschool.com/blog/variational-autoencoders)
+Let's get started: [What are Variational Autoencoders (VAEs) and How Do They Work?](lessons/variational-autoencoders.md)
 
 ---
 
@@ -4651,20 +4653,20 @@ By the end of this module, we will be able to design an AI system end to end, fr
 
 **Lessons in this module:**
 
-1. [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
-2. [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
-3. [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
-4. [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
-5. [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
-6. [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
-7. [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
-8. [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
-9. [How does a feature store work?](https://outcomeschool.com/blog/feature-store)
-10. [Android TensorFlow Lite Machine Learning Example](https://outcomeschool.com/blog/android-tensorflow-lite-machine-learning-example)
-11. [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
-12. [What is System Design?](https://outcomeschool.com/blog/system-design)
-13. [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://outcomeschool.com/blog/http-request-long-polling-websocket-sse)
-14. [How do Voice And Video Call Work?](https://outcomeschool.com/blog/voice-and-video-call)
+1. [How does a GPU work for Deep Learning?](lessons/how-does-a-gpu-work-for-deep-learning.md)
+2. [How do CUDA Kernels work?](lessons/how-do-cuda-kernels-work.md)
+3. [How does a Google TPU work?](lessons/how-does-a-google-tpu-work.md)
+4. [How does an LPU work?](lessons/how-does-an-lpu-work.md)
+5. [How does distributed training work?](lessons/distributed-training.md)
+6. [Cloud vs On-device Model Deployment](lessons/cloud-vs-on-device-model-deployment.md)
+7. [How does Model Serving work?](lessons/model-serving.md)
+8. [How does a Model Registry work?](lessons/model-registry.md)
+9. [How does a feature store work?](lessons/feature-store.md)
+10. [Android TensorFlow Lite Machine Learning Example](lessons/android-tensorflow-lite-machine-learning-example.md)
+11. [What is LLM Routing? How to Send Each Query to the Right LLM](lessons/llm-routing.md)
+12. [What is System Design?](lessons/system-design.md)
+13. [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](lessons/http-request-long-polling-websocket-sse.md)
+14. [How do Voice And Video Call Work?](lessons/voice-and-video-call.md)
 
 ---
 
@@ -4688,7 +4690,7 @@ We will cover the following:
 - Multiple GPUs working together
 - Why NVIDIA GPUs power modern AI
 
-Let's get started: [How does a GPU work for Deep Learning?](https://outcomeschool.com/blog/how-does-a-gpu-work-for-deep-learning)
+Let's get started: [How does a GPU work for Deep Learning?](lessons/how-does-a-gpu-work-for-deep-learning.md)
 
 ### 16.2 How do CUDA Kernels work?
 
@@ -4708,7 +4710,7 @@ We will cover the following:
 - Why CUDA Kernels matter for AI
 - Where CUDA Kernels work well and where they fail
 
-Let's get started: [How do CUDA Kernels work?](https://outcomeschool.com/blog/how-do-cuda-kernels-work)
+Let's get started: [How do CUDA Kernels work?](lessons/how-do-cuda-kernels-work.md)
 
 ### 16.3 How does a Google TPU work?
 
@@ -4727,7 +4729,7 @@ We will cover the following:
 - Where TPUs are used
 - Limitations of a TPU
 
-Let's get started: [How does a Google TPU work?](https://outcomeschool.com/blog/how-does-a-google-tpu-work)
+Let's get started: [How does a Google TPU work?](lessons/how-does-a-google-tpu-work.md)
 
 ### 16.4 How does an LPU work?
 
@@ -4751,7 +4753,7 @@ We will cover the following:
 - LPU vs GPU
 - When to use which one
 
-Let's get started: [How does an LPU work?](https://outcomeschool.com/blog/how-does-an-lpu-work)
+Let's get started: [How does an LPU work?](lessons/how-does-an-lpu-work.md)
 
 ### 16.5 How does distributed training work?
 
@@ -4774,7 +4776,7 @@ We will cover the following:
 - Common challenges in Distributed Training
 - Real-World Applications
 
-Let's get started: [How does distributed training work?](https://outcomeschool.com/blog/distributed-training)
+Let's get started: [How does distributed training work?](lessons/distributed-training.md)
 
 ### 16.6 Cloud vs On-device Model Deployment
 
@@ -4799,7 +4801,7 @@ We will cover the following:
 - When to use which one?
 - Summary
 
-Let's get started: [Cloud vs On-device Model Deployment](https://outcomeschool.com/blog/cloud-vs-on-device-model-deployment)
+Let's get started: [Cloud vs On-device Model Deployment](lessons/cloud-vs-on-device-model-deployment.md)
 
 ### 16.7 How does Model Serving work?
 
@@ -4818,7 +4820,7 @@ We will cover the following:
 - Serving frameworks
 - Monitoring and versioning
 
-Let's get started: [How does Model Serving work?](https://outcomeschool.com/blog/model-serving)
+Let's get started: [How does Model Serving work?](lessons/model-serving.md)
 
 ### 16.8 How does a Model Registry work?
 
@@ -4835,7 +4837,7 @@ We will cover the following:
 - How a Model Registry connects to serving
 - Example: MLflow Model Registry
 
-Let's get started: [How does a Model Registry work?](https://outcomeschool.com/blog/model-registry)
+Let's get started: [How does a Model Registry work?](lessons/model-registry.md)
 
 ### 16.9 How does a feature store work?
 
@@ -4853,13 +4855,13 @@ We will cover the following:
 - Point-in-time correctness
 - When to use a feature store
 
-Let's get started: [How does a feature store work?](https://outcomeschool.com/blog/feature-store)
+Let's get started: [How does a feature store work?](lessons/feature-store.md)
 
 ### 16.10 Android TensorFlow Lite Machine Learning Example
 
 In this blog, we will see Android TensorFlow Lite Machine Learning example.
 
-Let's get started: [Android TensorFlow Lite Machine Learning Example](https://outcomeschool.com/blog/android-tensorflow-lite-machine-learning-example)
+Let's get started: [Android TensorFlow Lite Machine Learning Example](lessons/android-tensorflow-lite-machine-learning-example.md)
 
 ### 16.11 What is LLM Routing? How to Send Each Query to the Right LLM
 
@@ -4878,7 +4880,7 @@ We will cover the following:
 - Common Mistakes and How to Fix Them
 - Quick Summary
 
-Let's get started: [What is LLM Routing? How to Send Each Query to the Right LLM](https://outcomeschool.com/blog/llm-routing)
+Let's get started: [What is LLM Routing? How to Send Each Query to the Right LLM](lessons/llm-routing.md)
 
 **Supporting lessons for AI System Design:**
 
@@ -4892,7 +4894,7 @@ We will cover the following:
 - Why do we need it?
 - What are the required concepts?
 
-Let's get started: [What is System Design?](https://outcomeschool.com/blog/system-design)
+Let's get started: [What is System Design?](lessons/system-design.md)
 
 ### 16.13 HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events
 
@@ -4906,7 +4908,7 @@ We will cover the following:
 - WebSocket
 - Server-Send Events(SSE)
 
-Let's get started: [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](https://outcomeschool.com/blog/http-request-long-polling-websocket-sse)
+Let's get started: [HTTP Request vs HTTP Long-Polling vs WebSocket vs Server-Sent Events](lessons/http-request-long-polling-websocket-sse.md)
 
 ### 16.14 How do Voice And Video Call Work?
 
@@ -4919,7 +4921,7 @@ We will cover the following:
 - STUN Server
 - TURN Server
 
-Let's get started: [How do Voice And Video Call Work?](https://outcomeschool.com/blog/voice-and-video-call)
+Let's get started: [How do Voice And Video Call Work?](lessons/voice-and-video-call.md)
 
 > **Note:** We have now learned how to design and deploy complete AI systems. If you want to learn these in a more practical and in-depth way with me in live classes, check out our **paid** live program: [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) at Outcome School.
 
@@ -4933,25 +4935,25 @@ By the end of this module, we will understand how a voice agent holds a natural 
 
 **Lessons in this module:**
 
-1. [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
-2. [What is turn-taking in a voice AI agent?](https://outcomeschool.com/blog/what-is-turn-taking-in-a-voice-ai-agent)
-3. [How does endpointing decide when the user has finished speaking?](https://outcomeschool.com/blog/endpointing-in-voice-agents)
-4. [How do silence-based and model-based turn detection differ?](https://outcomeschool.com/blog/silence-vs-model-based-turn-detection)
-5. [How does dynamic endpointing adapt to how fast a user talks?](https://outcomeschool.com/blog/dynamic-endpointing)
-6. [How does a voice agent handle long pauses when the user is thinking?](https://outcomeschool.com/blog/long-pauses-in-voice-agents)
-7. [How does a voice agent know a phone number or email is not finished yet?](https://outcomeschool.com/blog/unfinished-input-in-voice-agents)
-8. [Why does a voice agent cut people off mid-sentence?](https://outcomeschool.com/blog/voice-agents-cutting-users-off)
-9. [What is barge-in in a voice AI agent?](https://outcomeschool.com/blog/what-is-barge-in-in-a-voice-ai-agent)
-10. [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](https://outcomeschool.com/blog/cascaded-vs-speech-to-speech)
-11. [How do half-duplex and full-duplex voice agents differ?](https://outcomeschool.com/blog/half-duplex-vs-full-duplex-voice-agents)
-12. [How does a voice agent tell a real interruption from a cough or background noise?](https://outcomeschool.com/blog/interruption-vs-background-noise)
-13. [What are backchannels, and why should "mm-hmm" not stop the agent?](https://outcomeschool.com/blog/backchannels-in-voice-agents)
-14. [How does a voice agent stop speaking instantly when interrupted?](https://outcomeschool.com/blog/stopping-speech-on-interruption)
-15. [Why does TTS audio buffering make interruptions slow?](https://outcomeschool.com/blog/tts-audio-buffering)
-16. [How does a voice agent truncate its memory to only what the user actually heard?](https://outcomeschool.com/blog/truncating-context-on-interruption)
-17. [How does a voice agent recover from a false interruption?](https://outcomeschool.com/blog/false-interruption-recovery)
-18. [How does a voice agent handle the user and agent talking at the same time?](https://outcomeschool.com/blog/overlapping-speech-in-voice-agents)
-19. [How does a voice agent add its own backchannels like "okay" and "got it"?](https://outcomeschool.com/blog/agent-side-backchannels)
+1. [Design a Real-Time Voice AI Agent](lessons/design-a-real-time-voice-ai-agent.md)
+2. [What is turn-taking in a voice AI agent?](lessons/what-is-turn-taking-in-a-voice-ai-agent.md)
+3. [How does endpointing decide when the user has finished speaking?](lessons/endpointing-in-voice-agents.md)
+4. [How do silence-based and model-based turn detection differ?](lessons/silence-vs-model-based-turn-detection.md)
+5. [How does dynamic endpointing adapt to how fast a user talks?](lessons/dynamic-endpointing.md)
+6. [How does a voice agent handle long pauses when the user is thinking?](lessons/long-pauses-in-voice-agents.md)
+7. [How does a voice agent know a phone number or email is not finished yet?](lessons/unfinished-input-in-voice-agents.md)
+8. [Why does a voice agent cut people off mid-sentence?](lessons/voice-agents-cutting-users-off.md)
+9. [What is barge-in in a voice AI agent?](lessons/what-is-barge-in-in-a-voice-ai-agent.md)
+10. [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](lessons/cascaded-vs-speech-to-speech.md)
+11. [How do half-duplex and full-duplex voice agents differ?](lessons/half-duplex-vs-full-duplex-voice-agents.md)
+12. [How does a voice agent tell a real interruption from a cough or background noise?](lessons/interruption-vs-background-noise.md)
+13. [What are backchannels, and why should "mm-hmm" not stop the agent?](lessons/backchannels-in-voice-agents.md)
+14. [How does a voice agent stop speaking instantly when interrupted?](lessons/stopping-speech-on-interruption.md)
+15. [Why does TTS audio buffering make interruptions slow?](lessons/tts-audio-buffering.md)
+16. [How does a voice agent truncate its memory to only what the user actually heard?](lessons/truncating-context-on-interruption.md)
+17. [How does a voice agent recover from a false interruption?](lessons/false-interruption-recovery.md)
+18. [How does a voice agent handle the user and agent talking at the same time?](lessons/overlapping-speech-in-voice-agents.md)
+19. [How does a voice agent add its own backchannels like "okay" and "got it"?](lessons/agent-side-backchannels.md)
 
 ---
 
@@ -4987,7 +4989,7 @@ We will cover the following:
 - Cost
 - How to present this design in an interview
 
-Let's get started: [Design a Real-Time Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent)
+Let's get started: [Design a Real-Time Voice AI Agent](lessons/design-a-real-time-voice-ai-agent.md)
 
 ### 17.2 What is turn-taking in a voice AI agent?
 
@@ -5007,7 +5009,7 @@ We will cover the following:
 - Half-duplex vs full-duplex agents
 - A complete walkthrough
 
-Let's get started: [What is turn-taking in a voice AI agent?](https://outcomeschool.com/blog/what-is-turn-taking-in-a-voice-ai-agent)
+Let's get started: [What is turn-taking in a voice AI agent?](lessons/what-is-turn-taking-in-a-voice-ai-agent.md)
 
 ### 17.3 How does endpointing decide when the user has finished speaking?
 
@@ -5025,7 +5027,7 @@ We will cover the following:
 - Waiting Too Long vs Cutting Off Too Early
 - Extra Steps Around the Endpoint
 
-Let's get started: [How does endpointing decide when the user has finished speaking?](https://outcomeschool.com/blog/endpointing-in-voice-agents)
+Let's get started: [How does endpointing decide when the user has finished speaking?](lessons/endpointing-in-voice-agents.md)
 
 ### 17.4 How do silence-based and model-based turn detection differ?
 
@@ -5042,7 +5044,7 @@ We will cover the following:
 - Silence-Based vs Model-Based Turn Detection
 - When to Use Which One
 
-Let's get started: [How do silence-based and model-based turn detection differ?](https://outcomeschool.com/blog/silence-vs-model-based-turn-detection)
+Let's get started: [How do silence-based and model-based turn detection differ?](lessons/silence-vs-model-based-turn-detection.md)
 
 ### 17.5 How does dynamic endpointing adapt to how fast a user talks?
 
@@ -5060,7 +5062,7 @@ We will cover the following:
 - Using the meaning of the sentence as well
 - Where it works well and where it fails
 
-Let's get started: [How does dynamic endpointing adapt to how fast a user talks?](https://outcomeschool.com/blog/dynamic-endpointing)
+Let's get started: [How does dynamic endpointing adapt to how fast a user talks?](lessons/dynamic-endpointing.md)
 
 ### 17.6 How does a voice agent handle long pauses when the user is thinking?
 
@@ -5081,7 +5083,7 @@ We will cover the following:
 - The complete flow
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent handle long pauses when the user is thinking?](https://outcomeschool.com/blog/long-pauses-in-voice-agents)
+Let's get started: [How does a voice agent handle long pauses when the user is thinking?](lessons/long-pauses-in-voice-agents.md)
 
 ### 17.7 How does a voice agent know a phone number or email is not finished yet?
 
@@ -5100,7 +5102,7 @@ We will cover the following:
 - What the agent does when it is still unsure
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent know a phone number or email is not finished yet?](https://outcomeschool.com/blog/unfinished-input-in-voice-agents)
+Let's get started: [How does a voice agent know a phone number or email is not finished yet?](lessons/unfinished-input-in-voice-agents.md)
 
 ### 17.8 Why does a voice agent cut people off mid-sentence?
 
@@ -5116,7 +5118,7 @@ We will cover the following:
 - How does semantic turn detection fix it?
 - Recovering when the agent still gets it wrong
 
-Let's get started: [Why does a voice agent cut people off mid-sentence?](https://outcomeschool.com/blog/voice-agents-cutting-users-off)
+Let's get started: [Why does a voice agent cut people off mid-sentence?](lessons/voice-agents-cutting-users-off.md)
 
 ### 17.9 What is barge-in in a voice AI agent?
 
@@ -5135,7 +5137,7 @@ We will cover the following:
 - Why barge-in must be fast
 - A complete walkthrough
 
-Let's get started: [What is barge-in in a voice AI agent?](https://outcomeschool.com/blog/what-is-barge-in-in-a-voice-ai-agent)
+Let's get started: [What is barge-in in a voice AI agent?](lessons/what-is-barge-in-in-a-voice-ai-agent.md)
 
 ### 17.10 Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?
 
@@ -5152,7 +5154,7 @@ We will cover the following:
 - Differences between Cascaded, Half-Cascade, and Speech-to-Speech
 - How to choose the right voice agent architecture
 
-Let's get started: [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](https://outcomeschool.com/blog/cascaded-vs-speech-to-speech)
+Let's get started: [Cascaded vs Speech-to-Speech: How to choose the right voice agent architecture?](lessons/cascaded-vs-speech-to-speech.md)
 
 ### 17.11 How do half-duplex and full-duplex voice agents differ?
 
@@ -5171,7 +5173,7 @@ We will cover the following:
 - Half-duplex vs full-duplex
 - When to use which one
 
-Let's get started: [How do half-duplex and full-duplex voice agents differ?](https://outcomeschool.com/blog/half-duplex-vs-full-duplex-voice-agents)
+Let's get started: [How do half-duplex and full-duplex voice agents differ?](lessons/half-duplex-vs-full-duplex-voice-agents.md)
 
 ### 17.12 How does a voice agent tell a real interruption from a cough or background noise?
 
@@ -5191,7 +5193,7 @@ We will cover the following:
 - Putting it all together
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent tell a real interruption from a cough or background noise?](https://outcomeschool.com/blog/interruption-vs-background-noise)
+Let's get started: [How does a voice agent tell a real interruption from a cough or background noise?](lessons/interruption-vs-background-noise.md)
 
 ### 17.13 What are backchannels, and why should "mm-hmm" not stop the agent?
 
@@ -5208,7 +5210,7 @@ We will cover the following:
 - A complete example
 - Where it works well and where it fails
 
-Let's get started: [What are backchannels, and why should "mm-hmm" not stop the agent?](https://outcomeschool.com/blog/backchannels-in-voice-agents)
+Let's get started: [What are backchannels, and why should "mm-hmm" not stop the agent?](lessons/backchannels-in-voice-agents.md)
 
 ---
 
@@ -5231,7 +5233,7 @@ We will cover the following:
 - A complete example
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent stop speaking instantly when interrupted?](https://outcomeschool.com/blog/stopping-speech-on-interruption)
+Let's get started: [How does a voice agent stop speaking instantly when interrupted?](lessons/stopping-speech-on-interruption.md)
 
 ---
 
@@ -5252,7 +5254,7 @@ We will cover the following:
 - A complete example
 - Where it works well and where it fails
 
-Let's get started: [Why does TTS audio buffering make interruptions slow?](https://outcomeschool.com/blog/tts-audio-buffering)
+Let's get started: [Why does TTS audio buffering make interruptions slow?](lessons/tts-audio-buffering.md)
 
 ---
 
@@ -5273,7 +5275,7 @@ We will cover the following:
 - How a speech-to-speech API does this
 - Edge cases
 
-Let's get started: [How does a voice agent truncate its memory to only what the user actually heard?](https://outcomeschool.com/blog/truncating-context-on-interruption)
+Let's get started: [How does a voice agent truncate its memory to only what the user actually heard?](lessons/truncating-context-on-interruption.md)
 
 ---
 
@@ -5293,7 +5295,7 @@ We will cover the following:
 - A complete example from start to end
 - Tuning the waiting time
 
-Let's get started: [How does a voice agent recover from a false interruption?](https://outcomeschool.com/blog/false-interruption-recovery)
+Let's get started: [How does a voice agent recover from a false interruption?](lessons/false-interruption-recovery.md)
 
 ---
 
@@ -5316,7 +5318,7 @@ We will cover the following:
 - A complete example
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent handle the user and agent talking at the same time?](https://outcomeschool.com/blog/overlapping-speech-in-voice-agents)
+Let's get started: [How does a voice agent handle the user and agent talking at the same time?](lessons/overlapping-speech-in-voice-agents.md)
 
 ### 17.19 How does a voice agent add its own backchannels like "okay" and "got it"?
 
@@ -5336,7 +5338,7 @@ We will cover the following:
 - How full-duplex models do it in a different way
 - Where it works well and where it fails
 
-Let's get started: [How does a voice agent add its own backchannels like "okay" and "got it"?](https://outcomeschool.com/blog/agent-side-backchannels)
+Let's get started: [How does a voice agent add its own backchannels like "okay" and "got it"?](lessons/agent-side-backchannels.md)
 
 ---
 
@@ -5348,27 +5350,27 @@ By the end of this module, we will be able to make a voice agent respond fast an
 
 **Lessons in this module:**
 
-1. [How do you build a latency budget for a voice AI agent?](https://outcomeschool.com/blog/voice-agent-latency-budget)
-2. [How does the voice-to-voice latency of a voice agent get measured?](https://outcomeschool.com/blog/voice-to-voice-latency)
-3. [Why does the time-to-first-audio matter more than total response time?](https://outcomeschool.com/blog/time-to-first-audio)
-4. [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts)
-5. [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts)
-6. [How does speculative LLM generation start replying before the user finishes?](https://outcomeschool.com/blog/speculative-generation-in-voice-agents)
-7. [How do filler phrases hide latency in a voice agent?](https://outcomeschool.com/blog/filler-phrases-in-voice-agents)
-8. [How does a voice agent hide the delay of a slow tool call?](https://outcomeschool.com/blog/slow-tool-calls-in-voice-agents)
-9. [What are audio frames and chunk sizes in a real-time voice pipeline?](https://outcomeschool.com/blog/audio-frames-and-chunk-sizes)
-10. [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?](https://outcomeschool.com/blog/sample-rates-for-voice-agents)
-11. [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
-12. [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
-13. [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
-14. [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
-15. [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
-16. [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
-17. [Why does phone audio make speech recognition worse?](https://outcomeschool.com/blog/phone-audio-and-speech-recognition)
-18. [How does DTMF keypad input work in a voice agent?](https://outcomeschool.com/blog/dtmf-in-voice-agents)
-19. [How does voicemail and answering machine detection work?](https://outcomeschool.com/blog/answering-machine-detection)
-20. [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
-21. [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
+1. [How do you build a latency budget for a voice AI agent?](lessons/voice-agent-latency-budget.md)
+2. [How does the voice-to-voice latency of a voice agent get measured?](lessons/voice-to-voice-latency.md)
+3. [Why does the time-to-first-audio matter more than total response time?](lessons/time-to-first-audio.md)
+4. [How does sentence chunking feed LLM output into TTS faster?](lessons/sentence-chunking-for-tts.md)
+5. [How does a TTS model start speaking before the full sentence arrives?](lessons/streaming-tts.md)
+6. [How does speculative LLM generation start replying before the user finishes?](lessons/speculative-generation-in-voice-agents.md)
+7. [How do filler phrases hide latency in a voice agent?](lessons/filler-phrases-in-voice-agents.md)
+8. [How does a voice agent hide the delay of a slow tool call?](lessons/slow-tool-calls-in-voice-agents.md)
+9. [What are audio frames and chunk sizes in a real-time voice pipeline?](lessons/audio-frames-and-chunk-sizes.md)
+10. [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?](lessons/sample-rates-for-voice-agents.md)
+11. [How do WebRTC and WebSocket differ for voice AI agents?](lessons/webrtc-vs-websocket-for-voice-ai.md)
+12. [How does the Opus codec compress voice for real-time calls?](lessons/opus-codec.md)
+13. [How does a jitter buffer keep voice audio smooth over a bad network?](lessons/jitter-buffer.md)
+14. [How does packet loss concealment hide missing audio?](lessons/packet-loss-concealment.md)
+15. [How does a voice AI agent answer a phone call?](lessons/phone-calls-in-voice-agents.md)
+16. [How do SIP and RTP carry a phone call to a voice agent?](lessons/sip-and-rtp.md)
+17. [Why does phone audio make speech recognition worse?](lessons/phone-audio-and-speech-recognition.md)
+18. [How does DTMF keypad input work in a voice agent?](lessons/dtmf-in-voice-agents.md)
+19. [How does voicemail and answering machine detection work?](lessons/answering-machine-detection.md)
+20. [How does an outbound calling voice agent work?](lessons/outbound-calling-voice-agent.md)
+21. [How does a voice agent transfer a call to a human with context?](lessons/call-transfer-with-context.md)
 
 ---
 
@@ -5389,7 +5391,7 @@ We will cover the following:
 - How tool calls fit into the budget
 - The trade-off we must accept
 
-Let's get started: [How do you build a latency budget for a voice AI agent?](https://outcomeschool.com/blog/voice-agent-latency-budget)
+Let's get started: [How do you build a latency budget for a voice AI agent?](lessons/voice-agent-latency-budget.md)
 
 ### 18.2 How does the voice-to-voice latency of a voice agent get measured?
 
@@ -5407,7 +5409,7 @@ We will cover the following:
 - Why do we look at percentiles and not the average?
 - Where it works well and where it fails
 
-Let's get started: [How does the voice-to-voice latency of a voice agent get measured?](https://outcomeschool.com/blog/voice-to-voice-latency)
+Let's get started: [How does the voice-to-voice latency of a voice agent get measured?](lessons/voice-to-voice-latency.md)
 
 ### 18.3 Why does the time-to-first-audio matter more than total response time?
 
@@ -5425,7 +5427,7 @@ We will cover the following:
 - The rest of the reply must keep up
 - When does the total response time still matter?
 
-Let's get started: [Why does the time-to-first-audio matter more than total response time?](https://outcomeschool.com/blog/time-to-first-audio)
+Let's get started: [Why does the time-to-first-audio matter more than total response time?](lessons/time-to-first-audio.md)
 
 ### 18.4 How does sentence chunking feed LLM output into TTS faster?
 
@@ -5444,7 +5446,7 @@ We will cover the following:
 - What happens when the user interrupts?
 - Where it works well and where it fails
 
-Let's get started: [How does sentence chunking feed LLM output into TTS faster?](https://outcomeschool.com/blog/sentence-chunking-for-tts)
+Let's get started: [How does sentence chunking feed LLM output into TTS faster?](lessons/sentence-chunking-for-tts.md)
 
 ### 18.5 How does a TTS model start speaking before the full sentence arrives?
 
@@ -5462,7 +5464,7 @@ We will cover the following:
 - A walkthrough with numbers
 - Where it works well and where it fails
 
-Let's get started: [How does a TTS model start speaking before the full sentence arrives?](https://outcomeschool.com/blog/streaming-tts)
+Let's get started: [How does a TTS model start speaking before the full sentence arrives?](lessons/streaming-tts.md)
 
 ### 18.6 How does speculative LLM generation start replying before the user finishes?
 
@@ -5481,7 +5483,7 @@ We will cover the following:
 - The cost of speculative LLM generation
 - When to use it and when not to
 
-Let's get started: [How does speculative LLM generation start replying before the user finishes?](https://outcomeschool.com/blog/speculative-generation-in-voice-agents)
+Let's get started: [How does speculative LLM generation start replying before the user finishes?](lessons/speculative-generation-in-voice-agents.md)
 
 ### 18.7 How do filler phrases hide latency in a voice agent?
 
@@ -5498,7 +5500,7 @@ We will cover the following:
 - Handling an interruption during a filler phrase
 - Where filler phrases help and where they hurt
 
-Let's get started: [How do filler phrases hide latency in a voice agent?](https://outcomeschool.com/blog/filler-phrases-in-voice-agents)
+Let's get started: [How do filler phrases hide latency in a voice agent?](lessons/filler-phrases-in-voice-agents.md)
 
 ### 18.8 How does a voice agent hide the delay of a slow tool call?
 
@@ -5516,7 +5518,7 @@ We will cover the following:
 - What if the tool takes too long?
 - Putting it all together in code
 
-Let's get started: [How does a voice agent hide the delay of a slow tool call?](https://outcomeschool.com/blog/slow-tool-calls-in-voice-agents)
+Let's get started: [How does a voice agent hide the delay of a slow tool call?](lessons/slow-tool-calls-in-voice-agents.md)
 
 ### 18.9 What are audio frames and chunk sizes in a real-time voice pipeline?
 
@@ -5533,7 +5535,7 @@ We will cover the following:
 - Different parts want different sizes
 - How to pick the right chunk size
 
-Let's get started: [What are audio frames and chunk sizes in a real-time voice pipeline?](https://outcomeschool.com/blog/audio-frames-and-chunk-sizes)
+Let's get started: [What are audio frames and chunk sizes in a real-time voice pipeline?](lessons/audio-frames-and-chunk-sizes.md)
 
 ### 18.10 Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?
 
@@ -5552,7 +5554,7 @@ We will cover the following:
 - Sample Rate and the Size of the Audio
 - How to Pick the Right Sample Rate
 
-Let's get started: [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?](https://outcomeschool.com/blog/sample-rates-for-voice-agents)
+Let's get started: [Why do sample rates like 8 kHz, 16 kHz, and 24 kHz matter for voice agents?](lessons/sample-rates-for-voice-agents.md)
 
 ### 18.11 How do WebRTC and WebSocket differ for voice AI agents?
 
@@ -5571,7 +5573,7 @@ We will cover the following:
 - WebRTC vs WebSocket
 - When to use which one
 
-Let's get started: [How do WebRTC and WebSocket differ for voice AI agents?](https://outcomeschool.com/blog/webrtc-vs-websocket-for-voice-ai)
+Let's get started: [How do WebRTC and WebSocket differ for voice AI agents?](lessons/webrtc-vs-websocket-for-voice-ai.md)
 
 ### 18.12 How does the Opus codec compress voice for real-time calls?
 
@@ -5591,7 +5593,7 @@ We will cover the following:
 - How Opus handles lost packets
 - Why Opus is used for real-time calls and voice agents
 
-Let's get started: [How does the Opus codec compress voice for real-time calls?](https://outcomeschool.com/blog/opus-codec)
+Let's get started: [How does the Opus codec compress voice for real-time calls?](lessons/opus-codec.md)
 
 ---
 
@@ -5611,7 +5613,7 @@ We will cover the following:
 - What happens when a packet is late or lost
 - Where the jitter buffer sits in a voice AI agent
 
-Let's get started: [How does a jitter buffer keep voice audio smooth over a bad network?](https://outcomeschool.com/blog/jitter-buffer)
+Let's get started: [How does a jitter buffer keep voice audio smooth over a bad network?](lessons/jitter-buffer.md)
 
 ---
 
@@ -5632,7 +5634,7 @@ We will cover the following:
 - Where does packet loss concealment fit in a voice AI agent?
 - Where it works well and where it fails
 
-Let's get started: [How does packet loss concealment hide missing audio?](https://outcomeschool.com/blog/packet-loss-concealment)
+Let's get started: [How does packet loss concealment hide missing audio?](lessons/packet-loss-concealment.md)
 
 ---
 
@@ -5653,7 +5655,7 @@ We will cover the following:
 - Handling interruptions on a phone call
 - How the call ends
 
-Let's get started: [How does a voice AI agent answer a phone call?](https://outcomeschool.com/blog/phone-calls-in-voice-agents)
+Let's get started: [How does a voice AI agent answer a phone call?](lessons/phone-calls-in-voice-agents.md)
 
 ---
 
@@ -5674,7 +5676,7 @@ We will cover the following:
 - How the call ends
 - SIP vs RTP
 
-Let's get started: [How do SIP and RTP carry a phone call to a voice agent?](https://outcomeschool.com/blog/sip-and-rtp)
+Let's get started: [How do SIP and RTP carry a phone call to a voice agent?](lessons/sip-and-rtp.md)
 
 ---
 
@@ -5694,7 +5696,7 @@ We will cover the following:
 - How All the Problems Stack Up
 - How to Make Speech Recognition Work Better on Phone Audio
 
-Let's get started: [Why does phone audio make speech recognition worse?](https://outcomeschool.com/blog/phone-audio-and-speech-recognition)
+Let's get started: [Why does phone audio make speech recognition worse?](lessons/phone-audio-and-speech-recognition.md)
 
 ---
 
@@ -5714,7 +5716,7 @@ We will cover the following:
 - Keeping sensitive digits away from the LLM
 - When the voice agent presses the keys
 
-Let's get started: [How does DTMF keypad input work in a voice agent?](https://outcomeschool.com/blog/dtmf-in-voice-agents)
+Let's get started: [How does DTMF keypad input work in a voice agent?](lessons/dtmf-in-voice-agents.md)
 
 ---
 
@@ -5735,7 +5737,7 @@ We will cover the following:
 - Where it fails
 - How a voice agent uses it end to end
 
-Let's get started: [How does voicemail and answering machine detection work?](https://outcomeschool.com/blog/answering-machine-detection)
+Let's get started: [How does voicemail and answering machine detection work?](lessons/answering-machine-detection.md)
 
 ---
 
@@ -5757,7 +5759,7 @@ We will cover the following:
 - Step 7: Ending the call and saving the outcome
 - Where outbound calling voice agents are used
 
-Let's get started: [How does an outbound calling voice agent work?](https://outcomeschool.com/blog/outbound-calling-voice-agent)
+Let's get started: [How does an outbound calling voice agent work?](lessons/outbound-calling-voice-agent.md)
 
 ---
 
@@ -5776,7 +5778,7 @@ We will cover the following:
 - Putting it all together in code
 - What if no human is available?
 
-Let's get started: [How does a voice agent transfer a call to a human with context?](https://outcomeschool.com/blog/call-transfer-with-context)
+Let's get started: [How does a voice agent transfer a call to a human with context?](lessons/call-transfer-with-context.md)
 
 ---
 
@@ -5788,13 +5790,13 @@ By the end of this module, we will be able to build a voice agent that speaks na
 
 **Lessons in this module:**
 
-1. [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
-2. [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
-3. [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
-4. [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
-5. [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
-6. [How do multi-agent handoffs work in a voice AI system?](https://outcomeschool.com/blog/multi-agent-handoffs-in-voice-ai)
-7. [How does a voice agent decide when to end the call?](https://outcomeschool.com/blog/call-ending-in-voice-agents)
+1. [How do you write a system prompt for a voice agent, not a chat bot?](lessons/voice-agent-system-prompt.md)
+2. [How does function calling work in a voice AI agent?](lessons/function-calling-in-voice-agents.md)
+3. [How does a voice agent handle structured inputs like dates, numbers, and addresses?](lessons/structured-inputs-in-voice-agents.md)
+4. [How does a voice agent confirm and correct misheard information?](lessons/confirm-and-correct-in-voice-agents.md)
+5. [How does a voice agent manage conversation state across a long call?](lessons/conversation-state-in-voice-agents.md)
+6. [How do multi-agent handoffs work in a voice AI system?](lessons/multi-agent-handoffs-in-voice-ai.md)
+7. [How does a voice agent decide when to end the call?](lessons/call-ending-in-voice-agents.md)
 
 ---
 
@@ -5817,7 +5819,7 @@ We will cover the following:
 - Rule 8: Know how to end the call
 - Putting it all together: a complete voice agent system prompt
 
-Let's get started: [How do you write a system prompt for a voice agent, not a chat bot?](https://outcomeschool.com/blog/voice-agent-system-prompt)
+Let's get started: [How do you write a system prompt for a voice agent, not a chat bot?](lessons/voice-agent-system-prompt.md)
 
 ---
 
@@ -5840,7 +5842,7 @@ We will cover the following:
 - Function calling with a speech-to-speech model
 - Putting it all together in code
 
-Let's get started: [How does function calling work in a voice AI agent?](https://outcomeschool.com/blog/function-calling-in-voice-agents)
+Let's get started: [How does function calling work in a voice AI agent?](lessons/function-calling-in-voice-agents.md)
 
 ---
 
@@ -5862,7 +5864,7 @@ We will cover the following:
 - Handling numbers and phone numbers
 - Handling names, spellings, and addresses
 
-Let's get started: [How does a voice agent handle structured inputs like dates, numbers, and addresses?](https://outcomeschool.com/blog/structured-inputs-in-voice-agents)
+Let's get started: [How does a voice agent handle structured inputs like dates, numbers, and addresses?](lessons/structured-inputs-in-voice-agents.md)
 
 ---
 
@@ -5882,7 +5884,7 @@ We will cover the following:
 - Putting it all together in code
 - When to confirm and when to skip
 
-Let's get started: [How does a voice agent confirm and correct misheard information?](https://outcomeschool.com/blog/confirm-and-correct-in-voice-agents)
+Let's get started: [How does a voice agent confirm and correct misheard information?](lessons/confirm-and-correct-in-voice-agents.md)
 
 ---
 
@@ -5904,7 +5906,7 @@ We will cover the following:
 - Keeping the state safe when the call drops
 - Putting it all together
 
-Let's get started: [How does a voice agent manage conversation state across a long call?](https://outcomeschool.com/blog/conversation-state-in-voice-agents)
+Let's get started: [How does a voice agent manage conversation state across a long call?](lessons/conversation-state-in-voice-agents.md)
 
 ---
 
@@ -5928,7 +5930,7 @@ We will cover the following:
 - Handing back and handoff loops
 - Putting it all together in code
 
-Let's get started: [How do multi-agent handoffs work in a voice AI system?](https://outcomeschool.com/blog/multi-agent-handoffs-in-voice-ai)
+Let's get started: [How do multi-agent handoffs work in a voice AI system?](lessons/multi-agent-handoffs-in-voice-ai.md)
 
 ---
 
@@ -5951,7 +5953,7 @@ We will cover the following:
 - What happens after the call ends
 - Putting it all together in code
 
-Let's get started: [How does a voice agent decide when to end the call?](https://outcomeschool.com/blog/call-ending-in-voice-agents)
+Let's get started: [How does a voice agent decide when to end the call?](lessons/call-ending-in-voice-agents.md)
 
 ---
 
@@ -5963,9 +5965,9 @@ By the end of this module, we will understand where AI research is heading next.
 
 **Lessons in this module:**
 
-1. [What is Joint Embedding Predictive Architecture (JEPA) and How Does It Work?](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa)
-2. [How do World Models work?](https://outcomeschool.com/blog/how-do-world-models-work)
-3. [What is Recursive Self-Improvement (RSI)?](https://outcomeschool.com/blog/what-is-recursive-self-improvement-rsi)
+1. [What is Joint Embedding Predictive Architecture (JEPA) and How Does It Work?](lessons/joint-embedding-predictive-architecture-jepa.md)
+2. [How do World Models work?](lessons/how-do-world-models-work.md)
+3. [What is Recursive Self-Improvement (RSI)?](lessons/what-is-recursive-self-improvement-rsi.md)
 
 ---
 
@@ -5989,7 +5991,7 @@ We will cover the following:
 - V-JEPA and the world-model vision
 - When and why JEPA matters
 
-Let's get started: [What is Joint Embedding Predictive Architecture (JEPA) and How Does It Work?](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa)
+Let's get started: [What is Joint Embedding Predictive Architecture (JEPA) and How Does It Work?](lessons/joint-embedding-predictive-architecture-jepa.md)
 
 ### 20.2 How do World Models work?
 
@@ -6008,7 +6010,7 @@ We will cover the following:
 - World Models and predicting the future
 - World Models in the real world
 
-Let's get started: [How do World Models work?](https://outcomeschool.com/blog/how-do-world-models-work)
+Let's get started: [How do World Models work?](lessons/how-do-world-models-work.md)
 
 ### 20.3 What is Recursive Self-Improvement (RSI)?
 
@@ -6028,7 +6030,7 @@ We will cover the following:
 - Keeping humans in the loop
 - Recursive Self-Improvement vs Normal Training
 
-Let's get started: [What is Recursive Self-Improvement (RSI)?](https://outcomeschool.com/blog/what-is-recursive-self-improvement-rsi)
+Let's get started: [What is Recursive Self-Improvement (RSI)?](lessons/what-is-recursive-self-improvement-rsi.md)
 
 ---
 
@@ -6046,76 +6048,76 @@ This course is free. If you want to learn all of these with me in live classes, 
 
 Quick definitions of the most important AI Engineering terms, taken from the lessons of this AI Engineering Course. Click on any term to learn it in depth.
 
-- **[Generative AI](https://outcomeschool.com/blog/what-is-generative-ai):** Generative AI is a type of artificial intelligence that can create new things, like text, images, audio, video, and code.
-- **[Language Model](https://outcomeschool.com/blog/small-language-models-slms):** A Language Model is a neural network trained to predict the next token (i.e. the next small chunk of text) based on the previous tokens.
-- **[LLM Architecture](https://outcomeschool.com/blog/evolution-of-llm-architecture):** An LLM Architecture is the blueprint of a large language model. It describes how the model reads text, how it remembers what it has read, and how it produces the next word.
-- **[Tokenization](https://outcomeschool.com/blog/tokenization-in-llms):** The first step is to break the text into small pieces called tokens. Each token is then converted into a number. This process of breaking text into tokens is called tokenization.
-- **[BPE (Byte Pair Encoding)](https://outcomeschool.com/blog/bpe-in-llms):** BPE (Byte Pair Encoding) is a tokenization algorithm that breaks text into pieces that are somewhere between characters and words.
-- **[Embedding](https://outcomeschool.com/blog/what-are-embeddings):** An embedding is a list of numbers that represents the meaning of something, arranged so that things with similar meaning get similar numbers.
-- **[Transformer](https://outcomeschool.com/blog/encoder-vs-decoder-in-transformers):** A Transformer is the architecture behind most modern AI models that work with language.
-- **[Self Attention](https://outcomeschool.com/blog/self-attention-in-transformers):** Self Attention is a mechanism that allows every token in a sequence to look at every other token in the same sequence, including itself, to understand the context.
-- **[Multi-Head Attention](https://outcomeschool.com/blog/multi-head-attention-in-transformers):** Multi-Head Attention is a mechanism that runs many Self Attention operations in parallel, each with its own set of Q, K, and V projections, and then combines their outputs into a single richer representation.
-- **[Grouped-Query Attention (GQA)](https://outcomeschool.com/blog/grouped-query-attention):** Grouped-Query Attention (GQA) is a strategy where heads are divided into groups, and all heads within a group share the same Key and Value, while each head still has its own Query.
-- **[Gradient Descent](https://outcomeschool.com/blog/math-behind-gradient-descent):** Gradient Descent means going downward in the direction of the steepest slope.
-- **[Backpropagation](https://outcomeschool.com/blog/math-behind-backpropagation):** Backpropagation is a method used to calculate how much each weight in a neural network contributed to the error, so that we can adjust those weights to reduce the error.
-- **[Reinforcement Learning](https://outcomeschool.com/blog/reinforcement-learning):** Reinforcement Learning, often called RL, is a type of machine learning where an Agent learns to make a sequence of decisions by interacting with an Environment, with the goal of maximizing a Reward over time.
-- **[Contrastive Learning](https://outcomeschool.com/blog/contrastive-learning):** Contrastive Learning is a way of teaching a model to learn good representations of data by comparing things. The model learns to pull similar things close to each other and push dissimilar things far apart in a representation space.
-- **[Top-p Sampling](https://outcomeschool.com/blog/how-do-top-k-and-top-p-sampling-work):** Top-p Sampling is a decoding strategy in which we keep the smallest group of top tokens whose probabilities add up to at least p, throw away all the others, and then pick randomly from that group.
-- **[Token Streaming](https://outcomeschool.com/blog/how-does-token-streaming-work):** Token streaming is a technique where the server sends the model's reply to us piece by piece, as each piece is produced, instead of waiting for the whole reply to be ready.
-- **[Lost in the Middle](https://outcomeschool.com/blog/lost-in-the-middle-problem-in-llms):** The Lost in the Middle problem is the behaviour where an LLM pays strong attention to the information placed at the beginning and at the end of a long input, and pays very less attention to the information placed in the middle.
-- **[Large Reasoning Model (LRM)](https://outcomeschool.com/blog/large-reasoning-models):** Large Reasoning Model = A Large Language Model that is trained to think first, and answer later.
-- **[Diffusion Language Model](https://outcomeschool.com/blog/how-do-diffusion-language-models-dlms-work):** A Diffusion Language Model is a type of AI model that writes text by starting from a piece of pure gibberish and slowly cleaning it up into a clear, meaningful sentence.
-- **[Fine-tuning](https://outcomeschool.com/blog/how-does-fine-tuning-work):** Fine-tuning is the process of taking a model that is already trained and training it a little more on our own specific data so that it becomes good at our specific task.
-- **[LoRA](https://outcomeschool.com/blog/lora-low-rank-adaptation-of-llms):** LoRA is a way to fine-tune a large model without updating all of its weights. Instead of changing the original weight matrix, we keep it frozen and learn a tiny pair of extra matrices on the side.
-- **[Knowledge Distillation](https://outcomeschool.com/blog/how-does-knowledge-distillation-work):** Knowledge Distillation is a technique where we train a small model to copy the behavior of a large model.
-- **[Continual Learning](https://outcomeschool.com/blog/continual-learning-in-llms):** Continual Learning is the ability of a model to keep learning new information over time, without forgetting what it has already learned.
-- **[RLHF](https://outcomeschool.com/blog/reinforcement-learning-from-human-feedback-rlhf):** RLHF (Reinforcement Learning from Human Feedback) is a training technique where we teach a Large Language Model (LLM) to produce responses that humans prefer, by collecting human preferences and converting them into a reward signal that guides further training.
-- **[Chain-of-Thought (CoT) Prompting](https://outcomeschool.com/blog/how-does-chain-of-thought-prompting-work):** Chain-of-Thought (CoT) Prompting is a technique where we ask the model to write out its reasoning steps before giving the final answer.
-- **[Tree of Thoughts](https://outcomeschool.com/blog/how-does-tree-of-thoughts-work):** Tree of Thoughts is a technique where the model explores many reasoning paths like the branches of a tree, judges each step, and drops or backtracks from the bad ones, instead of following a single straight chain of thought.
-- **[Prompt Chaining](https://outcomeschool.com/blog/how-does-prompt-chaining-work):** Prompt Chaining is a way of breaking one big task into smaller prompts, where the output of one prompt becomes the input of the next prompt.
-- **[Prompt Caching](https://outcomeschool.com/blog/how-does-prompt-caching-work):** Prompt Caching is a technique where the model saves the work it already did for a repeated part of a prompt, so that next time it can reuse that saved work instead of doing it all over again.
-- **[Context Engineering](https://outcomeschool.com/blog/context-engineering):** Context Engineering is the practice of designing, organizing, and managing everything that goes into an LLM's context window so that the model can do its task reliably.
-- **[Context Compaction](https://outcomeschool.com/blog/how-does-context-compaction-work):** Context compaction is the technique of shrinking the old conversation into a short summary, so the important facts stay while the box gets free space again.
-- **[RAG (Retrieval-Augmented Generation)](https://outcomeschool.com/blog/how-does-hyde-work):** RAG stands for Retrieval-Augmented Generation. It is a way to make an AI model answer using our own documents instead of only using what it already knows.
-- **[Chunk](https://outcomeschool.com/blog/chunking-strategies-for-rag):** A chunk is a small piece of text that we cut out from a bigger document.
-- **[Hybrid Search](https://outcomeschool.com/blog/how-does-hybrid-search-work):** Hybrid Search is a technique that combines keyword search and semantic search, and merges their results into one final ranked list.
-- **[Reranker](https://outcomeschool.com/blog/how-does-a-reranker-work):** A Reranker is a model that takes a list of documents and reorders them, putting the most relevant ones at the top for a given question.
-- **[Semantic Caching](https://outcomeschool.com/blog/how-does-semantic-caching-work):** Semantic Caching is a cache that matches questions by their meaning instead of their exact words.
-- **[Agentic RAG](https://outcomeschool.com/blog/agentic-rag):** Agentic RAG is a system where an AI Agent drives the retrieval process.
-- **[AI Agent](https://outcomeschool.com/blog/ai-agent):** AI Agent = An LLM + Instructions + Tools + Memory + A loop that runs until the goal is achieved.
-- **[Function Calling](https://outcomeschool.com/blog/how-does-function-calling-work-in-llms):** Function Calling is a way to let an LLM use external tools, APIs, and functions to get things done. It is also called tool calling, and both names mean the same thing.
-- **[ReAct Agent](https://outcomeschool.com/blog/react-agent):** A ReAct Agent is an AI Agent built using the ReAct (Reasoning + Acting) pattern - the most common pattern for building AI Agents.
-- **[MCP (Model Context Protocol)](https://outcomeschool.com/blog/what-is-mcp-model-context-protocol):** MCP, which stands for Model Context Protocol, is an open standard that defines one common way for AI applications to connect to outside tools and data.
-- **[Agent Skill](https://outcomeschool.com/blog/what-are-agent-skills):** An Agent Skill is a folder of instructions, and optionally scripts and reference files, that an AI agent loads by itself only when the task actually needs it.
-- **[OKF (Open Knowledge Format)](https://outcomeschool.com/blog/what-is-okf-open-knowledge-format):** OKF, which stands for Open Knowledge Format, is an open standard for writing down what an organization knows about its data and systems, as a folder of plain markdown files, so that any AI agent or any tool can read that knowledge without custom work.
-- **[AI SubAgent](https://outcomeschool.com/blog/ai-subagents):** An AI SubAgent is a smaller, specialized agent that works under a main agent to handle a specific part of a larger task.
-- **[AI Orchestration](https://outcomeschool.com/blog/ai-orchestration):** AI Orchestration is the process of coordinating multiple AI components, such as LLMs, tools, data sources, and agents, to work together to finish a complex task.
-- **[Loop Engineering](https://outcomeschool.com/blog/what-is-loop-engineering):** Loop Engineering is the practice of designing the repeating cycle that an AI agent runs, so that the agent keeps making real progress on a task and stops at the right moment with the right result.
-- **[Graph Engineering](https://outcomeschool.com/blog/what-is-graph-engineering):** Graph Engineering is the practice of designing an AI system as a graph, where every step of the work is a node and every path from one step to another step is an edge.
-- **[LangChain](https://outcomeschool.com/blog/how-does-langchain-work):** LangChain is a framework that helps us build applications powered by Large Language Models.
-- **[LangGraph](https://outcomeschool.com/blog/how-does-langgraph-work):** LangGraph is a framework that helps us build applications powered by an LLM, where the work is organized as a graph of steps.
-- **[Claude Code](https://outcomeschool.com/blog/how-does-claude-code-work):** Claude Code is a coding agent from Anthropic that runs in the terminal. We give it a task in plain English, and it completes the task by reading our code, editing files, running commands, and checking its own work.
-- **[Prefill](https://outcomeschool.com/blog/prefill-vs-decode-llm-inference-optimization):** Prefill is the phase where the model reads and processes your entire input prompt in one single pass and produces the very first output token.
-- **[KV Cache Compression](https://outcomeschool.com/blog/kv-cache-compression):** KV Cache Compression is the set of techniques that make the KV Cache smaller while keeping the quality of the model output almost the same.
-- **[Paged Attention](https://outcomeschool.com/blog/paged-attention-in-llms):** Paged Attention is a technique that manages KV Cache memory more efficiently by breaking it into small, fixed-size blocks called pages.
-- **[Continuous Batching](https://outcomeschool.com/blog/continuous-batching-in-llms):** Continuous Batching is a way of running batches where the server does not wait for the whole batch to finish. The moment any request in the batch finishes, the server immediately replaces it with a new request that is waiting in the queue.
-- **[Speculative Decoding](https://outcomeschool.com/blog/n-gram-speculation-in-llms):** Speculative Decoding is a technique where we first guess the next few tokens quickly, and then ask the big model to verify all those guesses in one single run.
-- **[Model Quantization](https://outcomeschool.com/blog/how-does-model-quantization-work):** Model Quantization is the process of storing and computing a model's numbers at lower precision, so the model takes less memory and runs faster.
-- **[GGUF](https://outcomeschool.com/blog/how-does-gguf-work):** GGUF is a single file format that stores everything needed to run a large language model for local inference, all in one self-contained file.
-- **[Ollama](https://outcomeschool.com/blog/how-does-ollama-work):** Ollama is an open-source tool that makes it easy to download, run, and manage LLMs on our own computer.
-- **[vLLM](https://outcomeschool.com/blog/how-does-vllm-work):** vLLM is a high-throughput engine for serving LLMs. It is built to serve as many requests as possible on a GPU by managing the KV cache memory very efficiently.
-- **[LLM Evaluation](https://outcomeschool.com/blog/llm-evaluation):** LLM Evaluation is the process of measuring how well a Large Language Model performs on the tasks we expect it to do.
-- **[LLM as a Judge](https://outcomeschool.com/blog/llm-as-a-judge):** LLM as a Judge is a technique where we use a large language model to evaluate the output of another large language model.
-- **[AI Agent Observability](https://outcomeschool.com/blog/ai-agent-observability):** AI Agent Observability is the practice of recording and understanding everything an AI Agent does internally, step by step, so that we can see why it behaved the way it did.
-- **[LLM Guardrails](https://outcomeschool.com/blog/how-do-llm-guardrails-work):** LLM guardrails are safety checks that sit around an LLM to control what goes in and what comes out.
-- **[Prompt Injection](https://outcomeschool.com/blog/prompt-injection-in-llms):** Prompt Injection is an attack where someone slips their own instructions into the text that an AI application sends to the model, so that the model follows the attacker's instructions instead of the developer's instructions.
-- **[Diffusion Model](https://outcomeschool.com/blog/diffusion-models):** A Diffusion Model is a type of AI model that learns to create new data, such as images, by starting from pure random noise and slowly cleaning it up step by step until a clear image appears.
-- **[Variational Autoencoder (VAE)](https://outcomeschool.com/blog/variational-autoencoders):** A Variational Autoencoder, also called a VAE, is a special type of Autoencoder that learns a smooth and organized latent space, so that we can pick any random point from it and generate brand new, meaningful data.
-- **[LPU](https://outcomeschool.com/blog/how-does-an-lpu-work):** An LPU is a chip that is built for one single job, running a large language model that is already trained, and producing text as fast as possible.
-- **[LLM Routing](https://outcomeschool.com/blog/llm-routing):** LLM Routing is the practice of choosing the right LLM for each user query, instead of sending every query to the same LLM.
-- **[Voice AI Agent](https://outcomeschool.com/blog/design-a-real-time-voice-ai-agent):** A Voice AI Agent is a software program that we can talk to using our voice, and it talks back to us, just like a phone call with a human, but the one on the other side is an AI.
-- **[World Model](https://outcomeschool.com/blog/how-do-world-models-work):** A World Model is an AI that learns an approximate internal copy of how an environment behaves, so that it can predict what happens next, given the current state and an action.
-- **[Recursive Self-Improvement](https://outcomeschool.com/blog/what-is-recursive-self-improvement-rsi):** Recursive Self-Improvement is a process in which an AI system improves its own abilities, and then the improved version improves itself further, and this cycle keeps repeating.
+- **[Generative AI](lessons/what-is-generative-ai.md):** Generative AI is a type of artificial intelligence that can create new things, like text, images, audio, video, and code.
+- **[Language Model](lessons/small-language-models-slms.md):** A Language Model is a neural network trained to predict the next token (i.e. the next small chunk of text) based on the previous tokens.
+- **[LLM Architecture](lessons/evolution-of-llm-architecture.md):** An LLM Architecture is the blueprint of a large language model. It describes how the model reads text, how it remembers what it has read, and how it produces the next word.
+- **[Tokenization](lessons/tokenization-in-llms.md):** The first step is to break the text into small pieces called tokens. Each token is then converted into a number. This process of breaking text into tokens is called tokenization.
+- **[BPE (Byte Pair Encoding)](lessons/bpe-in-llms.md):** BPE (Byte Pair Encoding) is a tokenization algorithm that breaks text into pieces that are somewhere between characters and words.
+- **[Embedding](lessons/what-are-embeddings.md):** An embedding is a list of numbers that represents the meaning of something, arranged so that things with similar meaning get similar numbers.
+- **[Transformer](lessons/encoder-vs-decoder-in-transformers.md):** A Transformer is the architecture behind most modern AI models that work with language.
+- **[Self Attention](lessons/self-attention-in-transformers.md):** Self Attention is a mechanism that allows every token in a sequence to look at every other token in the same sequence, including itself, to understand the context.
+- **[Multi-Head Attention](lessons/multi-head-attention-in-transformers.md):** Multi-Head Attention is a mechanism that runs many Self Attention operations in parallel, each with its own set of Q, K, and V projections, and then combines their outputs into a single richer representation.
+- **[Grouped-Query Attention (GQA)](lessons/grouped-query-attention.md):** Grouped-Query Attention (GQA) is a strategy where heads are divided into groups, and all heads within a group share the same Key and Value, while each head still has its own Query.
+- **[Gradient Descent](lessons/math-behind-gradient-descent.md):** Gradient Descent means going downward in the direction of the steepest slope.
+- **[Backpropagation](lessons/math-behind-backpropagation.md):** Backpropagation is a method used to calculate how much each weight in a neural network contributed to the error, so that we can adjust those weights to reduce the error.
+- **[Reinforcement Learning](lessons/reinforcement-learning.md):** Reinforcement Learning, often called RL, is a type of machine learning where an Agent learns to make a sequence of decisions by interacting with an Environment, with the goal of maximizing a Reward over time.
+- **[Contrastive Learning](lessons/contrastive-learning.md):** Contrastive Learning is a way of teaching a model to learn good representations of data by comparing things. The model learns to pull similar things close to each other and push dissimilar things far apart in a representation space.
+- **[Top-p Sampling](lessons/how-do-top-k-and-top-p-sampling-work.md):** Top-p Sampling is a decoding strategy in which we keep the smallest group of top tokens whose probabilities add up to at least p, throw away all the others, and then pick randomly from that group.
+- **[Token Streaming](lessons/how-does-token-streaming-work.md):** Token streaming is a technique where the server sends the model's reply to us piece by piece, as each piece is produced, instead of waiting for the whole reply to be ready.
+- **[Lost in the Middle](lessons/lost-in-the-middle-problem-in-llms.md):** The Lost in the Middle problem is the behaviour where an LLM pays strong attention to the information placed at the beginning and at the end of a long input, and pays very less attention to the information placed in the middle.
+- **[Large Reasoning Model (LRM)](lessons/large-reasoning-models.md):** Large Reasoning Model = A Large Language Model that is trained to think first, and answer later.
+- **[Diffusion Language Model](lessons/how-do-diffusion-language-models-dlms-work.md):** A Diffusion Language Model is a type of AI model that writes text by starting from a piece of pure gibberish and slowly cleaning it up into a clear, meaningful sentence.
+- **[Fine-tuning](lessons/how-does-fine-tuning-work.md):** Fine-tuning is the process of taking a model that is already trained and training it a little more on our own specific data so that it becomes good at our specific task.
+- **[LoRA](lessons/lora-low-rank-adaptation-of-llms.md):** LoRA is a way to fine-tune a large model without updating all of its weights. Instead of changing the original weight matrix, we keep it frozen and learn a tiny pair of extra matrices on the side.
+- **[Knowledge Distillation](lessons/how-does-knowledge-distillation-work.md):** Knowledge Distillation is a technique where we train a small model to copy the behavior of a large model.
+- **[Continual Learning](lessons/continual-learning-in-llms.md):** Continual Learning is the ability of a model to keep learning new information over time, without forgetting what it has already learned.
+- **[RLHF](lessons/reinforcement-learning-from-human-feedback-rlhf.md):** RLHF (Reinforcement Learning from Human Feedback) is a training technique where we teach a Large Language Model (LLM) to produce responses that humans prefer, by collecting human preferences and converting them into a reward signal that guides further training.
+- **[Chain-of-Thought (CoT) Prompting](lessons/how-does-chain-of-thought-prompting-work.md):** Chain-of-Thought (CoT) Prompting is a technique where we ask the model to write out its reasoning steps before giving the final answer.
+- **[Tree of Thoughts](lessons/how-does-tree-of-thoughts-work.md):** Tree of Thoughts is a technique where the model explores many reasoning paths like the branches of a tree, judges each step, and drops or backtracks from the bad ones, instead of following a single straight chain of thought.
+- **[Prompt Chaining](lessons/how-does-prompt-chaining-work.md):** Prompt Chaining is a way of breaking one big task into smaller prompts, where the output of one prompt becomes the input of the next prompt.
+- **[Prompt Caching](lessons/how-does-prompt-caching-work.md):** Prompt Caching is a technique where the model saves the work it already did for a repeated part of a prompt, so that next time it can reuse that saved work instead of doing it all over again.
+- **[Context Engineering](lessons/context-engineering.md):** Context Engineering is the practice of designing, organizing, and managing everything that goes into an LLM's context window so that the model can do its task reliably.
+- **[Context Compaction](lessons/how-does-context-compaction-work.md):** Context compaction is the technique of shrinking the old conversation into a short summary, so the important facts stay while the box gets free space again.
+- **[RAG (Retrieval-Augmented Generation)](lessons/how-does-hyde-work.md):** RAG stands for Retrieval-Augmented Generation. It is a way to make an AI model answer using our own documents instead of only using what it already knows.
+- **[Chunk](lessons/chunking-strategies-for-rag.md):** A chunk is a small piece of text that we cut out from a bigger document.
+- **[Hybrid Search](lessons/how-does-hybrid-search-work.md):** Hybrid Search is a technique that combines keyword search and semantic search, and merges their results into one final ranked list.
+- **[Reranker](lessons/how-does-a-reranker-work.md):** A Reranker is a model that takes a list of documents and reorders them, putting the most relevant ones at the top for a given question.
+- **[Semantic Caching](lessons/how-does-semantic-caching-work.md):** Semantic Caching is a cache that matches questions by their meaning instead of their exact words.
+- **[Agentic RAG](lessons/agentic-rag.md):** Agentic RAG is a system where an AI Agent drives the retrieval process.
+- **[AI Agent](lessons/ai-agent.md):** AI Agent = An LLM + Instructions + Tools + Memory + A loop that runs until the goal is achieved.
+- **[Function Calling](lessons/how-does-function-calling-work-in-llms.md):** Function Calling is a way to let an LLM use external tools, APIs, and functions to get things done. It is also called tool calling, and both names mean the same thing.
+- **[ReAct Agent](lessons/react-agent.md):** A ReAct Agent is an AI Agent built using the ReAct (Reasoning + Acting) pattern - the most common pattern for building AI Agents.
+- **[MCP (Model Context Protocol)](lessons/what-is-mcp-model-context-protocol.md):** MCP, which stands for Model Context Protocol, is an open standard that defines one common way for AI applications to connect to outside tools and data.
+- **[Agent Skill](lessons/what-are-agent-skills.md):** An Agent Skill is a folder of instructions, and optionally scripts and reference files, that an AI agent loads by itself only when the task actually needs it.
+- **[OKF (Open Knowledge Format)](lessons/what-is-okf-open-knowledge-format.md):** OKF, which stands for Open Knowledge Format, is an open standard for writing down what an organization knows about its data and systems, as a folder of plain markdown files, so that any AI agent or any tool can read that knowledge without custom work.
+- **[AI SubAgent](lessons/ai-subagents.md):** An AI SubAgent is a smaller, specialized agent that works under a main agent to handle a specific part of a larger task.
+- **[AI Orchestration](lessons/ai-orchestration.md):** AI Orchestration is the process of coordinating multiple AI components, such as LLMs, tools, data sources, and agents, to work together to finish a complex task.
+- **[Loop Engineering](lessons/what-is-loop-engineering.md):** Loop Engineering is the practice of designing the repeating cycle that an AI agent runs, so that the agent keeps making real progress on a task and stops at the right moment with the right result.
+- **[Graph Engineering](lessons/what-is-graph-engineering.md):** Graph Engineering is the practice of designing an AI system as a graph, where every step of the work is a node and every path from one step to another step is an edge.
+- **[LangChain](lessons/how-does-langchain-work.md):** LangChain is a framework that helps us build applications powered by Large Language Models.
+- **[LangGraph](lessons/how-does-langgraph-work.md):** LangGraph is a framework that helps us build applications powered by an LLM, where the work is organized as a graph of steps.
+- **[Claude Code](lessons/how-does-claude-code-work.md):** Claude Code is a coding agent from Anthropic that runs in the terminal. We give it a task in plain English, and it completes the task by reading our code, editing files, running commands, and checking its own work.
+- **[Prefill](lessons/prefill-vs-decode-llm-inference-optimization.md):** Prefill is the phase where the model reads and processes your entire input prompt in one single pass and produces the very first output token.
+- **[KV Cache Compression](lessons/kv-cache-compression.md):** KV Cache Compression is the set of techniques that make the KV Cache smaller while keeping the quality of the model output almost the same.
+- **[Paged Attention](lessons/paged-attention-in-llms.md):** Paged Attention is a technique that manages KV Cache memory more efficiently by breaking it into small, fixed-size blocks called pages.
+- **[Continuous Batching](lessons/continuous-batching-in-llms.md):** Continuous Batching is a way of running batches where the server does not wait for the whole batch to finish. The moment any request in the batch finishes, the server immediately replaces it with a new request that is waiting in the queue.
+- **[Speculative Decoding](lessons/n-gram-speculation-in-llms.md):** Speculative Decoding is a technique where we first guess the next few tokens quickly, and then ask the big model to verify all those guesses in one single run.
+- **[Model Quantization](lessons/how-does-model-quantization-work.md):** Model Quantization is the process of storing and computing a model's numbers at lower precision, so the model takes less memory and runs faster.
+- **[GGUF](lessons/how-does-gguf-work.md):** GGUF is a single file format that stores everything needed to run a large language model for local inference, all in one self-contained file.
+- **[Ollama](lessons/how-does-ollama-work.md):** Ollama is an open-source tool that makes it easy to download, run, and manage LLMs on our own computer.
+- **[vLLM](lessons/how-does-vllm-work.md):** vLLM is a high-throughput engine for serving LLMs. It is built to serve as many requests as possible on a GPU by managing the KV cache memory very efficiently.
+- **[LLM Evaluation](lessons/llm-evaluation.md):** LLM Evaluation is the process of measuring how well a Large Language Model performs on the tasks we expect it to do.
+- **[LLM as a Judge](lessons/llm-as-a-judge.md):** LLM as a Judge is a technique where we use a large language model to evaluate the output of another large language model.
+- **[AI Agent Observability](lessons/ai-agent-observability.md):** AI Agent Observability is the practice of recording and understanding everything an AI Agent does internally, step by step, so that we can see why it behaved the way it did.
+- **[LLM Guardrails](lessons/how-do-llm-guardrails-work.md):** LLM guardrails are safety checks that sit around an LLM to control what goes in and what comes out.
+- **[Prompt Injection](lessons/prompt-injection-in-llms.md):** Prompt Injection is an attack where someone slips their own instructions into the text that an AI application sends to the model, so that the model follows the attacker's instructions instead of the developer's instructions.
+- **[Diffusion Model](lessons/diffusion-models.md):** A Diffusion Model is a type of AI model that learns to create new data, such as images, by starting from pure random noise and slowly cleaning it up step by step until a clear image appears.
+- **[Variational Autoencoder (VAE)](lessons/variational-autoencoders.md):** A Variational Autoencoder, also called a VAE, is a special type of Autoencoder that learns a smooth and organized latent space, so that we can pick any random point from it and generate brand new, meaningful data.
+- **[LPU](lessons/how-does-an-lpu-work.md):** An LPU is a chip that is built for one single job, running a large language model that is already trained, and producing text as fast as possible.
+- **[LLM Routing](lessons/llm-routing.md):** LLM Routing is the practice of choosing the right LLM for each user query, instead of sending every query to the same LLM.
+- **[Voice AI Agent](lessons/design-a-real-time-voice-ai-agent.md):** A Voice AI Agent is a software program that we can talk to using our voice, and it talks back to us, just like a phone call with a human, but the one on the other side is an AI.
+- **[World Model](lessons/how-do-world-models-work.md):** A World Model is an AI that learns an approximate internal copy of how an environment behaves, so that it can predict what happens next, given the current state and an action.
+- **[Recursive Self-Improvement](lessons/what-is-recursive-self-improvement-rsi.md):** Recursive Self-Improvement is a process in which an AI system improves its own abilities, and then the improved version improves itself further, and this cycle keeps repeating.
 
 ---
 
